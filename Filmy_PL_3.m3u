@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1" group="", Na noże
-http://patrz.pl/static/uploaded/video/183/1830/183039/b20c25a90356bb3ca9c7eb92d5fc1da5_240.mp4
-#EXTINF:0 type="video" channelId="-1" group="", Na noże
-http://patrz.pl/static/uploaded/video/183/1830/183039/b20c25a90356bb3ca9c7eb92d5fc1da5_240.mp4
-#EXTINF:0 type="video" channelId="-1" group="", Sala samobojcow Hejter 2020
+#EXTINF:0 type="video" channelId="-1" group="", Sala Samobojcow Hejter 
 http://patrz.pl/static/uploaded/video/184/1849/184930/d4347f69bbab1fc43ee7d375828f51cd_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="", Na noże
+http://patrz.pl/static/uploaded/video/183/1830/183039/b20c25a90356bb3ca9c7eb92d5fc1da5_240.mp4
 #EXTINF:0 type="video" channelId="-1" group="", Człowiek Wolny Od Grawitacji
 http://patrz.pl/static/uploaded/video/183/1830/183054/e007969973c60b99dda1da4606dc7a7d_720.mp4 
 #EXTINF:0 type="video" channelId="-1" group="", Ukryta gra
