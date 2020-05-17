@@ -17,3 +17,8 @@ http://patrz.pl/static/uploaded/video/185/1855/185534/04e9f11893827d25519f265ecf
 http://patrz.pl/static/uploaded/video/185/1855/185531/b76e82b9cc335792c56b5af8e63685d0_240.mp4
 #EXTINF:0 type="video" channelId="-1" group="Bajki", Angry Birds 2 Film
 http://patrz.pl/static/uploaded/video/185/1855/185532/10d9636f7f2a2fbecff7a9e04bb95514_240.mp4
+
+#EXTINF:-1, Minionki
+http://patrz.pl/static/uploaded/video/161/1612/161206/3122ea067deb18e394f9e1f43684ffb4_720.mp4
+#EXTINF:-1, Gru Dru i Minionki
+http://patrz.pl/static/uploaded/video/161/1612/161204/9d7c5fe340f657191a2a9e95a5f96e88_720.mp4
