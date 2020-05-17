@@ -1,0 +1,543 @@
+#EXTM3U
+#EXTINF:-1,TVP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/3
+#EXTINF:-1,TVP 1 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/1477
+#EXTINF:-1,TVP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/4
+#EXTINF:-1,TVP 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/1478
+#EXTINF:-1,TVP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/5
+#EXTINF:-1,TVP 3 Białystok
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/3123
+#EXTINF:-1,TVP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/14
+#EXTINF:-1,TVP SERIALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/16
+#EXTINF:-1,TVP Rozrywka
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/17
+#EXTINF:-1,TVP Kultura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/15
+#EXTINF:-1,TVP Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/18
+#EXTINF:-1,TVP Polonia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/19
+#EXTINF:-1,StudioMed TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/453
+#EXTINF:-1,Polonia 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/20
+#EXTINF:-1,Active Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/448
+#EXTINF:-1,ATM Rozrywka TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2652
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/22
+#EXTINF:-1,Kuchnia+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/21
+#EXTINF:-1,Kuchnia+ sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2666
+#EXTINF:-1,Polsat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/23
+#EXTINF:-1,Polsat sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/1479
+#EXTINF:-1,Polsat 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/24
+#EXTINF:-1,Polsat 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2709
+#EXTINF:-1,Polsat Cafe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/26
+#EXTINF:-1,Polsat Cafe sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2712
+#EXTINF:-1,Polsat Film HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/25
+#EXTINF:-1,Polsat Film sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2711
+#EXTINF:-1,Polsat Seriale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/27
+#EXTINF:-1,Polsat Rodzina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/28
+#EXTINF:-1,Polsat Play HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/29
+#EXTINF:-1,Polsat Play sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2713
+#EXTINF:-1,Super Polsat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/30
+#EXTINF:-1,TVN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/31
+#EXTINF:-1,TVN sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/1481
+#EXTINF:-1,TVN 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/32
+#EXTINF:-1,TVN 7 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2684
+#EXTINF:-1,TVN STYLE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/33
+#EXTINF:-1,TVN STYLE sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2698
+#EXTINF:-1,TVN Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/7
+#EXTINF:-1,TVN Turbo sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2699
+#EXTINF:-1,TVN Fabula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/34
+#EXTINF:-1,TVN Fabula sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2688
+#EXTINF:-1,DOMO+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/35
+#EXTINF:-1,BBC Lifestyle HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/38
+#EXTINF:-1,BBC FIRST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/36
+#EXTINF:-1,BBC Brit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/37
+#EXTINF:-1,Motowizja HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/49
+#EXTINF:-1,DTX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/62
+#EXTINF:-1,TV4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/42
+#EXTINF:-1,TV 4 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2717
+#EXTINF:-1,TV PULS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/40
+#EXTINF:-1,TV Puls sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2655
+#EXTINF:-1,TV Okazje
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/41
+#EXTINF:-1,Puls 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/39
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/43
+#EXTINF:-1,Comedy Central sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2692
+#EXTINF:-1,Comedy Central Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/44
+#EXTINF:-1,Zoom TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/45
+#EXTINF:-1,TVS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/50
+#EXTINF:-1,TTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/48
+#EXTINF:-1,TTV sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2685
+#EXTINF:-1,NTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/51
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/46
+#EXTINF:-1,E! Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/47
+#EXTINF:-1,WP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/58
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/52
+#EXTINF:-1,TLC sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2719
+#EXTINF:-1,Sundance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/54
+#EXTINF:-1,Romance TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/55
+#EXTINF:-1,Metro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/57
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/53
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/56
+#EXTINF:-1,TV6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/59
+#EXTINF:-1,TV6 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2718
+#EXTINF:-1,TELE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/70
+#EXTINF:-1,Superstacja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/68
+#EXTINF:-1,STARS.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/67
+#EXTINF:-1,Red Carpet TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/69
+#EXTINF:-1,PPV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/72
+#EXTINF:-1,PPV sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2653
+#EXTINF:-1,POWER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/64
+#EXTINF:-1,Polo TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/63
+#EXTINF:-1,Nowa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/65
+#EXTINF:-1,Novela Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/66
+#EXTINF:-1,Mango 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/71
+#EXTINF:-1,ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/60
+#EXTINF:-1,13 Ulica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/61
+#EXTINF:-1,Polski kanaly filmowe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/9
+#EXTINF:-1,CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/73
+#EXTINF:-1,Canal+ sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/1480
+#EXTINF:-1,CANAL+1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/74
+#EXTINF:-1,CANAL+ FILM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/75
+#EXTINF:-1,CANAL+ FILM sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2686
+#EXTINF:-1,CANAL+ SERIALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/76
+#EXTINF:-1,CANAL+ SERIALE sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2691
+#EXTINF:-1,CANAL+ FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/77
+#EXTINF:-1,CANAL+ FAMILY sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2687
+#EXTINF:-1,CANAL+ DOKUMENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/78
+#EXTINF:-1,CANAL+ DOKUMENT sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2663
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/79
+#EXTINF:-1,HBO sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2670
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/80
+#EXTINF:-1,HBO 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2656
+#EXTINF:-1,HBO 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/81
+#EXTINF:-1,HBO 3 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2657
+#EXTINF:-1,VOD 208
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/95
+#EXTINF:-1,VOD 207
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/94
+#EXTINF:-1,VOD 206
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/93
+#EXTINF:-1,VOD 205
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/92
+#EXTINF:-1,Kino TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/84
+#EXTINF:-1,Kino TV sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2658
+#EXTINF:-1,Filmbox Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/88
+#EXTINF:-1,FilmBox Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/89
+#EXTINF:-1,FilmBox Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/85
+#EXTINF:-1,Filmbox Arthouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/87
+#EXTINF:-1,FilmBox Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/86
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/82
+#EXTINF:-1,Cinemax sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/3201
+#EXTINF:-1,Cinemax 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/83
+#EXTINF:-1,Cinemax 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2706
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/96
+#EXTINF:-1,CI Polsat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/100
+#EXTINF:-1,CBS Europa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/97
+#EXTINF:-1,CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/99
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/101
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2650
+#EXTINF:-1,AXN SPIN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/103
+#EXTINF:-1,AXN Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/102
+#EXTINF:-1,AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/104
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/105
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/90
+#EXTINF:-1,Fox sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2690
+#EXTINF:-1,Fox Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/106
+#EXTINF:-1,Fox Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/107
+#EXTINF:-1,Stopklatka TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/108
+#EXTINF:-1,SciFi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/110
+#EXTINF:-1,SciFi sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2671
+#EXTINF:-1,Kino Polska
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/109
+#EXTINF:-1,Kino Polska sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2689
+#EXTINF:-1,Epic Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/111
+#EXTINF:-1,Ale kino+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/112
+#EXTINF:-1,Ale kino+ sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2693
+#EXTINF:-1,Polskie kanaly sportowe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/11
+#EXTINF:-1,TVP Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/113
+#EXTINF:-1,TVP Sport sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2659
+#EXTINF:-1,CANAL+ SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2648
+#EXTINF:-1,CANAL+ SPORT sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/1710
+#EXTINF:-1,CANAL+ SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/115
+#EXTINF:-1,CANAL+ SPORT 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/1711
+#EXTINF:-1,CANAL+ SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/571
+#EXTINF:-1,CANAL+ SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/117
+#EXTINF:-1,Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/118
+#EXTINF:-1,Eleven Sports 1 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2694
+#EXTINF:-1,Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/119
+#EXTINF:-1,Eleven Sports 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2695
+#EXTINF:-1,Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2654
+#EXTINF:-1,Eleven Sports 3 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2696
+#EXTINF:-1,Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2647
+#EXTINF:-1,Eleven Sports 4 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2660
+#EXTINF:-1,nSport+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/122
+#EXTINF:-1,nSport+ sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2668
+#EXTINF:-1,Polsat Sport Fight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/125
+#EXTINF:-1,Polsat Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/123
+#EXTINF:-1,Polsat Sport Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/124
+#EXTINF:-1,Polsat Sport Extra sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2714
+#EXTINF:-1,Polsat Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/126
+#EXTINF:-1,Polsat Sport News sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2679
+#EXTINF:-1,Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/131
+#EXTINF:-1,Eurosport 1 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2672
+#EXTINF:-1,Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/132
+#EXTINF:-1,Eurosport 2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2673
+#EXTINF:-1,Polsat Games
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/127
+#EXTINF:-1,Sportklub HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/130
+#EXTINF:-1,Golf Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/134
+#EXTINF:-1,Fightklub HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/128
+#EXTINF:-1,Fightbox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/133
+#EXTINF:-1,Extreme Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/129
+#EXTINF:-1,Extreme Sports sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2680
+#EXTINF:-1,Polskie Informacyjne
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/10
+#EXTINF:-1,TVP INFO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2651
+#EXTINF:-1,TVP INFO sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2720
+#EXTINF:-1,BIZNES24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/3114
+#EXTINF:-1,TV Republika
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/137
+#EXTINF:-1,Polsat News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/138
+#EXTINF:-1,Polsat News sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2710
+#EXTINF:-1,Polsat News 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/139
+#EXTINF:-1,TVN 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/140
+#EXTINF:-1,TVN 24 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2627
+#EXTINF:-1,TVN24 BiS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/6
+#EXTINF:-1,TVN24 BiS sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2669
+#EXTINF:-1,wPolsce.pl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/136
+#EXTINF:-1,TOP KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2934
+#EXTINF:-1,TVP ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/150
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/586
+#EXTINF:-1,teleTOON+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/152
+#EXTINF:-1,Polsat Jim Jam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/151
+#EXTINF:-1,Nicktoons HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/143
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/142
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/141
+#EXTINF:-1,MiniMini+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/149
+#EXTINF:-1,MiniMini+  sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2665
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/145
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/146
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/144
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/148
+#EXTINF:-1,BBC CBeebies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/154
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/153
+#EXTINF:-1,Polskie kanaly muzyczne
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/12
+#EXTINF:-1,4Fun.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/160
+#EXTINF:-1,4Fun Gold Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/162
+#EXTINF:-1,4Fun Dance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/161
+#EXTINF:-1,MTV Rocks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/167
+#EXTINF:-1,MTV Polska HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/165
+#EXTINF:-1,MTV Polska sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2702
+#EXTINF:-1,MTV Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/164
+#EXTINF:-1,MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/166
+#EXTINF:-1,EskaROCK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/157
+#EXTINF:-1,Eska TV Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/156
+#EXTINF:-1,Eska TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/155
+#EXTINF:-1,VOX MUSIC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/172
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/170
+#EXTINF:-1,TO!TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/171
+#EXTINF:-1,Polsat Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/159
+#EXTINF:-1,NUTA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/169
+#EXTINF:-1,Kino Polska Muzyka
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/158
+#EXTINF:-1,Disco Polo Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/168
+#EXTINF:-1,TVR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/454
+#EXTINF:-1,Antyradio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/456
+#EXTINF:-1,JASNA GORA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/458
+#EXTINF:-1,Muzo.fm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/450
+#EXTINF:-1,NC+ RADIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/460
+#EXTINF:-1,NC+ PR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/459
+#EXTINF:-1,Tok FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/462
+#EXTINF:-1,Radio ZET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/461
+#EXTINF:-1,RMF MAXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/452
+#EXTINF:-1,RMF FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/451
+#EXTINF:-1,Polskie kanaly przyrodnicze
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/13
+#EXTINF:-1,ADVENTURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/173
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/174
+#EXTINF:-1,Animal Planet sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2664
+#EXTINF:-1,Travel Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/193
+#EXTINF:-1,Polsat Viasat Nature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/192
+#EXTINF:-1,Polsat Viasat Nature sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2682
+#EXTINF:-1,Polsat Viasat History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/191
+#EXTINF:-1,Polsat Viasat History sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2716
+#EXTINF:-1,Polsat Viasat Explore HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/190
+#EXTINF:-1,Polsat Viasat Explore sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2700
+#EXTINF:-1,Polsat Doku HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/189
+#EXTINF:-1,Polsat Doku sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2715
+#EXTINF:-1,Planete+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/188
+#EXTINF:-1,Planete+ sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2701
+#EXTINF:-1,National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/185
+#EXTINF:-1,National Geographic Wild sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2697
+#EXTINF:-1,NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/184
+#EXTINF:-1,NATIONAL GEO sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2662
+#EXTINF:-1,Nat Geo People HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/187
+#EXTINF:-1,Nat Geo People sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2683
+#EXTINF:-1,BBC Earth HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/175
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/183
+#EXTINF:-1,History sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2708
+#EXTINF:-1,History 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/182
+#EXTINF:-1,Fokus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/181
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/179
+#EXTINF:-1,Discovery Science sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2681
+#EXTINF:-1,Discovery Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/178
+#EXTINF:-1,Discovery Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2667
+#EXTINF:-1,Discovery Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/177
+#EXTINF:-1,Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/176
+#EXTINF:-1,Discovery sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/2661
+#EXTINF:-1,Da Vinci Learning
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/180
+#EXTINF:-1,Water Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=AntonTV;http://nowatv.dyndns.info:8080/Kamila/Kamila/194
