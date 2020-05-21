@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Osadzony - Lock UP 1989
+http://patrz.pl/static/uploaded/video/188/1885/188537/c801e223ad714e7fc0c1d01e4002ce32_720.mp4
 #EXTINF:0 type="video" channelId="-1" group="Polskie", Vabank|1981
 http://patrz.pl/static/uploaded/video/186/1868/186841/eada4f67546519d3a541402259c1bcb8_720.mp4
 #EXTINF:0 type="video" channelId="-1" group="Polskie", Vabank II\\, czyli riposta|1984
