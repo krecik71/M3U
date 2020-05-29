@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:`0"group-title="Filmy ",Taken
+http://strimsworld2.ddns.net/vod/pol/2006-2010/2008/Taken.2008.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:`0"group-title="Filmy 2019",Word War Z
+http://strimsworld2.ddns.net/vod/pol/2011-2015/2013/World.War.Z.2013.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:`0"group-title="Filmy Polskie",Sala samobojcow Hejter 2020
+http://patrz.pl/static/uploaded/video/184/1849/184930/d4347f69bbab1fc43ee7d375828f51cd_720.mp4
+
 #EXTINF:0, tvg-id="" tvg-logo="http://207.110.52.34/screenshots/4/313.jpg" tvg-name="(2012)Mezczyzni w Natarciu"  group-title="Filmy",(2012)Mezczyzni w Natarciu
 http://207.110.52.49/vod/pol/2011-2015/2012/The.Babymakers.2012.mp4/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://207.110.52.34/screenshots/1/27.jpg" tvg-name="Kobiety i Dzieci"  group-title="Filmy",Kobiety i Dzieci
