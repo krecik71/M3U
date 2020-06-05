@@ -1,4 +1,12 @@
-#EXTM3U 
+#EXTM3U
+
+#EXTINF:-1,DE: DAZN 1 BAR HD
+http://iptvpro.vision-new.org:8789/iptvpro2vod11122019/9100558528/19886
+#EXTINF:-1,DE: DAZN 2 BAR HD
+http://iptvpro.vision-new.org:8789/iptvpro2vod11122019/9100558528/19887
+#EXTINF:-1,DE: NICK AUSTRIA
+http://iptvpro.vision-new.org:8789/iptvpro2vod11122019/9100558528/40695
+
 #EXTINF:-1,DE: RTL 1 HD
 http://samrapro.com:7766/azeezkamal/fsvHYDxwD6/5652
 #EXTINF:-1,DE: RTL 2 HD
