@@ -1,157 +1,198 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1" group="", Sala Samobojcow Hejter 
+#EXTINF:-1, Sala Samobojcow Hejter 
 http://patrz.pl/static/uploaded/video/184/1849/184930/d4347f69bbab1fc43ee7d375828f51cd_720.mp4
-#EXTINF:0 type="video" channelId="-1" group="", Na noże
+#EXTINF:-1, Na noże
 http://patrz.pl/static/uploaded/video/183/1830/183039/b20c25a90356bb3ca9c7eb92d5fc1da5_240.mp4
-#EXTINF:0 type="video" channelId="-1" group="", Człowiek Wolny Od Grawitacji
+#EXTINF:-1, Człowiek Wolny Od Grawitacji
 http://patrz.pl/static/uploaded/video/183/1830/183054/e007969973c60b99dda1da4606dc7a7d_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Ukryta gra
+#EXTINF:-1, Ukryta gra
 http://patrz.pl/static/uploaded/video/183/1830/183081/7108bb48ccac200601d7026565d012e5_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", X-Men: Mroczna Phoenix
+#EXTINF:-1, X-Men: Mroczna Phoenix
 http://patrz.pl/static/uploaded/video/183/1830/183070/542a80c22977238bb165cc6774e70e64_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Czarny Mercedes
+#EXTINF:-1, Czarny Mercedes
 http://patrz.pl/static/uploaded/video/183/1830/183063/8eda3d7c07c55cd440fe8e2f2ec7beca_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Ślicznotki
+#EXTINF:-1, Ślicznotki
 http://patrz.pl/static/uploaded/video/183/1830/183068/c7ea2f7c121a9141f65c87d8c80737b1_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Last Christmas
+#EXTINF:-1, Last Christmas
 http://patrz.pl/static/uploaded/video/183/1830/183061/8eed3e5d9a218abe64fbdf111e938303_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Boże Ciało
+#EXTINF:-1, Boże Ciało
 http://patrz.pl/static/uploaded/video/182/1827/182752/4569cf6703bf9a011f70248618036d67_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Countdown
+#EXTINF:-1, Countdown
 http://patrz.pl/static/uploaded/video/182/1828/182852/3a50398dfe8d99f36c1aa0b4f227beda_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Tajemnica anioła
+#EXTINF:-1, Tajemnica anioła
 http://patrz.pl/static/uploaded/video/182/1825/182539/7e9bc4a11bfa5421a3b887cc9cb5b473_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Upadek Grace
+#EXTINF:-1, Upadek Grace
 http://patrz.pl/static/uploaded/video/182/1825/182540/c1138d18b4eabacdb8808f97ac9f199e_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Świat w ogniu
+#EXTINF:-1, Świat w ogniu
 http://patrz.pl/static/uploaded/video/182/1825/182538/91e859fdbe2122e898c202d7d6b773e6_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Terminator: Mroczne przeznaczenie
+#EXTINF:-1, Terminator: Mroczne przeznaczenie
 http://patrz.pl/static/uploaded/video/182/1824/182484/9fbe7246007b0330108b4782f7cdc2dc_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Legiony
+#EXTINF:-1, Legiony
 http://patrz.pl/static/uploaded/video/182/1824/182470/870cc1c3c5ac8e0c8e3452f2e29cf1b7_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", To: Rozdział 2
+#EXTINF:-1, To: Rozdział 2
 http://patrz.pl/static/uploaded/video/182/1824/182485/963f1df645095958ee92875d78a70555_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Doktor Sen
+#EXTINF:-1, Doktor Sen
 http://patrz.pl/static/uploaded/video/182/1824/182456/7d85813962249382180b4147d6259334_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Sługi wojny
+#EXTINF:-1, Sługi wojny
 http://patrz.pl/static/uploaded/video/182/1824/182438/cf04814777f1c8c653968650321e2166_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Aladyn
+#EXTINF:-1, Aladyn
 http://patrz.pl/static/uploaded/video/182/1824/182434/cc5d7e39a44c2513e53545cca6d5d7d7_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Rambo: Ostatnia krew
+#EXTINF:-1, Rambo: Ostatnia krew
 http://patrz.pl/static/uploaded/video/182/1820/182074/1d92c3cf299be873381326f7b0ae3d46_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", 1917
+#EXTINF:-1, 1917
 http://patrz.pl/static/uploaded/video/182/1823/182380/743f421ee053d2c2e38868d1e2c149d3_480.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Piłsudski
+#EXTINF:-1, Piłsudski
 http://patrz.pl/static/uploaded/video/182/1822/182217/d7c532b7a3c69ba67f564411dc6b059b_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Jojo Rabbit
+#EXTINF:-1, Jojo Rabbit
 http://patrz.pl/static/uploaded/video/182/1821/182171/c1754b59d6740538732a41d3a6942c59_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Bliźniak
+#EXTINF:-1, Bliźniak
 http://patrz.pl/static/uploaded/video/182/1820/182029/fef9c4c449d0a59053d1e8dd64f1aa66_720.mp4
-#EXTINF:0 type="video" channelId="-1" group="", Le Mans '66
+#EXTINF:-1, Le Mans '66
 http://patrz.pl/static/uploaded/video/182/1820/182012/2555118d76ab4ff403a825a6f3de9347_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Danger Close: The Battle of Long Tan
+#EXTINF:-1, Danger Close: The Battle of Long Tan
 http://patrz.pl/static/uploaded/video/182/1820/182043/3c3548aeaadb07d72733c40414ddfc01_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Men in Black: International
+#EXTINF:-1, Men in Black: International
 http://patrz.pl/static/uploaded/video/181/1819/181902/d7d7e1347382f8009257008b343e28da_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Midsommar. W biały dzień
+#EXTINF:-1, Midsommar. W biały dzień
 http://patrz.pl/static/uploaded/video/181/1818/181826/b1341111202a59634e30b55305cab58a_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Gwiezdne wojny: Skywalker. Odrodzenie
+#EXTINF:-1, Gwiezdne wojny: Skywalker. Odrodzenie
 http://patrz.pl/static/uploaded/video/181/1818/181806/b55ea2b31088012450d7b3f1adeb7b22_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Togo
+#EXTINF:-1, Togo
 http://patrz.pl/static/uploaded/video/181/1818/181815/34edca01c4aa3776966ef1465328d650_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Midway
+#EXTINF:-1, Midway
 http://patrz.pl/static/uploaded/video/183/1832/183291/bc2c50f49ae7aa0d95b24a80bbe2e0e3_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Złodziej i oszustka
+#EXTINF:-1, Złodziej i oszustka
 http://patrz.pl/static/uploaded/video/181/1819/181958/65b4efd1c16d189f5b8cba74f6c260dd_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", X-Men: Mroczna Phoenix
+#EXTINF:-1, X-Men: Mroczna Phoenix
 http://patrz.pl/static/uploaded/video/181/1819/181968/1619440c9f8d6786ce6091e723019f6e_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Jestem matką
+#EXTINF:-1, Jestem matką
 http://patrz.pl/static/uploaded/video/179/1795/179546/f4b487af98f1c88fff9adf311e5663ce_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Czarownica 2
+#EXTINF:-1, Czarownica 2
 http://patrz.pl/static/uploaded/video/181/1817/181748/510b7a9cf0eeffa103c535bffcbf7a26_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Kraina lodu II
+#EXTINF:-1, Kraina lodu II
 http://patrz.pl/static/uploaded/video/181/1813/181355/0cc94d735547a5e3e6347edfe80487ee_480.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Polityka
+#EXTINF:-1, Polityka
 http://patrz.pl/static/uploaded/video/181/1818/181825/6f89201f8ddc8ae6682d7dc0ba4a9ba2_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Planeta Singli 3
+#EXTINF:-1, Planeta Singli 3
 http://patrz.pl/static/uploaded/video/178/1789/178956/81359a8f7a9445406cd2a5fece2bf3de_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Joker
+#EXTINF:-1, Joker
 http://patrz.pl/static/uploaded/video/181/1815/181521/2c8565d8cbb94a2800aae205d87363d2_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", W wysokiej trawie
+#EXTINF:-1, W wysokiej trawie
 http://patrz.pl/static/uploaded/video/179/1796/179630/0f134d9fdbbb05fd5999d7fe2dcf7d3a_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Nieplanowane
+#EXTINF:-1, Nieplanowane
 http://patrz.pl/static/uploaded/video/180/1802/180227/2c4f4ff49f7b927da35957b0b548bb73_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", The King
+#EXTINF:-1, The King
 http://patrz.pl/static/uploaded/video/180/1802/180221/052da5a600fc8af614311a56b837f754_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Zabawa w pochowanego
+#EXTINF:-1, Zabawa w pochowanego
 http://patrz.pl/static/uploaded/video/181/1810/181071/def0e4f821160a5fd5f16cb59ede09de_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Pół Wieku Poezji Później
+#EXTINF:-1, Pół Wieku Poezji Później
 http://patrz.pl/static/uploaded/video/181/1810/181022/8f6a10f6d429e4d9525fd85806fac31c_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Anna
+#EXTINF:-1, Anna
 http://patrz.pl/static/uploaded/video/180/1803/180326/c6eeb6dd72b66f236c6e8f59c6527264_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Ad Astra
+#EXTINF:-1, Ad Astra
 http://patrz.pl/static/uploaded/video/181/1810/181016/2e7f0d6f1c01cc59172f59c17b2388cc_720.mp4
-#EXTINF:0 type="video" channelId="-1" group="", Rocky
+#EXTINF:-1, Rocky
 http://patrz.pl/static/uploaded/video/182/1824/182462/75e867f0f922b05e5fa146809ea58c0c_480.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Rocky 2
+#EXTINF:-1, Rocky 2
 http://patrz.pl/static/uploaded/video/182/1824/182472/343b33b5da1e91ba4e3484e354f4bf64_480.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Rocky 3
+#EXTINF:-1, Rocky 3
 http://patrz.pl/static/uploaded/video/182/1824/182486/a04581e1176f62bc7e327473a5bd4a8f_480.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Uprowadzona
+#EXTINF:-1, Uprowadzona
 http://patrz.pl/static/uploaded/video/182/1825/182518/84534d73a7fee9f0c253141c7dd75cbc_480.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Uprowadzona 2
+#EXTINF:-1, Uprowadzona 2
 http://patrz.pl/static/uploaded/video/182/1825/182519/832ce647e673d0940365f5a170eab0b5_480.mp4
-#EXTINF:0 type="video" channelId="-1" group="", Smoking
+#EXTINF:-1, Smoking
 http://patrz.pl/static/uploaded/video/182/1828/182850/aad138d923b2b672aed20b5caaa26bb5_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Złoto Pustyni
+#EXTINF:-1, Złoto Pustyni
 http://patrz.pl/static/uploaded/video/182/1827/182729/4061d4003d5d44b85d28d29085599d53_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Ostatni Skaut
+#EXTINF:-1, Ostatni Skaut
 http://patrz.pl/static/uploaded/video/183/1830/183020/4e078072100a106025bd19e0e3f12ab6_720.mp4
-#EXTINF:0 type="video" channelId="-1" group="", Szklana Pułapka 3
+#EXTINF:-1, Szklana Pułapka 3
 http://patrz.pl/static/uploaded/video/183/1830/183019/a53ade341b5cd8b88822e83448492f6f_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Szklana Pułapka 2
+#EXTINF:-1, Szklana Pułapka 2
 http://patrz.pl/static/uploaded/video/183/1830/183018/2b7cbdb96974264e86bc3d4166e7cb8d_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Szklana Pułapka
+#EXTINF:-1, Szklana Pułapka
 http://patrz.pl/static/uploaded/video/183/1830/183013/cad2d2bbb06e1d101d0aad276a8daed3_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Ip Man
+#EXTINF:-1, Ip Man
 http://patrz.pl/static/uploaded/video/166/1661/166174/a8e43e71492aef6eedab8887f9b463c5_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", 47 Meters Down: Uncaged
+#EXTINF:-1, 47 Meters Down: Uncaged
 http://patrz.pl/static/uploaded/video/181/1811/181107/8928cf383db8141629107f2e34d3d02d_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Zombieland: Kulki w łeb
+#EXTINF:-1, Zombieland: Kulki w łeb
 http://patrz.pl/static/uploaded/video/181/1815/181597/87033aec8391621b22b833c052f1fa4d_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Rodzina Addamsów
+#EXTINF:-1, Rodzina Addamsów
 http://patrz.pl/static/uploaded/video/181/1815/181599/5c8f0f463a1b3ab424c893aabbc38348_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Brudna gra
+#EXTINF:-1, Brudna gra
 http://patrz.pl/static/uploaded/video/180/1809/180931/f60de1bdbf53626c5ececb0c6808dcc5_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Kurier
+#EXTINF:-1, Kurier
 http://patrz.pl/static/uploaded/video/178/1787/178712/59cc498f3b2ccbe6be6b95576fe8ad88_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Cyborgi
+#EXTINF:-1, Cyborgi
 http://patrz.pl/static/uploaded/video/182/1823/182368/eb3ac967fffa4ca6db1755360bff74a5_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Znachor
+#EXTINF:-1, Znachor
 http://patrz.pl/static/uploaded/video/181/1815/181594/f80db2317e3f14d100be0fee65da51e8_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Wyjście awaryjne
+#EXTINF:-1, Wyjście awaryjne
 http://patrz.pl/static/uploaded/video/181/1815/181593/a4cb19d153fdaacadcdb1bc58ca1b11c_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Opowieść wigilijna
+#EXTINF:-1, Opowieść wigilijna
 http://patrz.pl/static/uploaded/video/181/1815/181568/8da3c14356e8c80544fae3c1a4295139_480.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Parker
+#EXTINF:-1, Parker
 http://patrz.pl/static/uploaded/video/181/1814/181400/9f9e5d9f037f2321e131cfb63f3cc1dc_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Escape Plan 2: Hades
+#EXTINF:-1, Escape Plan 2: Hades
 http://patrz.pl/static/uploaded/video/181/1813/181369/5e5c7ec45d6fcc6150d64ae378b04d1e_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Czarna Pantera
+#EXTINF:-1, Czarna Pantera
 http://patrz.pl/static/uploaded/video/181/1813/181338/4a9d22201625c9d607fccc02da0c99ef_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Bad Boys II
+#EXTINF:-1, Bad Boys II
 http://patrz.pl/static/uploaded/video/181/1811/181141/d5c7a6deff85d3a4c11b221c1aec74f5_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Bad Boys
+#EXTINF:-1, Bad Boys
 http://patrz.pl/static/uploaded/video/181/1811/181139/378365a20f94c1114fa55d935123e970_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Bad Company - Czeski łącznik
+#EXTINF:-1, Bad Company - Czeski łącznik
 http://patrz.pl/static/uploaded/video/181/1811/181127/28e812b874171a0d17362fd0528e4e53_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Czarny deszcz
+#EXTINF:-1, Czarny deszcz
 http://patrz.pl/static/uploaded/video/181/1811/181110/0910ca93796cb3363313509f69fb74c8_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Podwójne zagrożenie
+#EXTINF:-1, Podwójne zagrożenie
 http://patrz.pl/static/uploaded/video/181/1811/181100/b2b907cb481faf242143df1a4b9f6ceb_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Partner
+#EXTINF:-1, Partner
 http://patrz.pl/static/uploaded/video/181/1810/181014/4384f015be0c8aeba688c55de90fe831_240.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Deja vu
+#EXTINF:-1, Deja vu
 http://patrz.pl/static/uploaded/video/181/1810/181005/d4a79b9016163217fc096cd3c35129c3_720.mp4 
-#EXTINF:0 type="video" channelId="-1" group="", Gorączka
+#EXTINF:-1, Gorączka
 http://patrz.pl/static/uploaded/video/181/1810/181001/3b5152429388bc7b4d08943e65b90050_720.mp4 
+
+#EXTINF:-1, Tango i Cash
+http://patrz.pl/static/uploaded/video/180/1809/180972/92e431226caaa195a91ac65d0e0cf831_720.mp4
+#EXTINF:-1, W krzywym zwierciadle: Witaj, Święty Mikołaju
+http://patrz.pl/static/uploaded/video/180/1809/180962/d5635e169abc2c9f07bdc04eda04d1b9_720.mp4
+#EXTINF:-1, Furia
+http://patrz.pl/static/uploaded/video/180/1809/180935/70541f2a4a361d799dcf3d9a120a1e5b_720.mp4
+#EXTINF:-1, Szybki jak błyskawica
+http://patrz.pl/static/uploaded/video/180/1808/180854/32a967cfdf35439ebef6887e42b019c1_720.mp4
+#EXTINF:-1, System
+http://patrz.pl/static/uploaded/video/180/1808/180806/364a9e416d9daaf7b03df338f6583d4a_720.mp4
+#EXTINF:-1, Mega Time Squad
+http://patrz.pl/static/uploaded/video/180/1807/180743/97754dbe2d8593ada7c838dc87e9b984_480.mp4
+#EXTINF:-1, Uprowadzenie
+http://patrz.pl/static/uploaded/video/180/1807/180737/bdcf4fce330658717e425ec9bcf90299_720.mp4
+#EXTINF:-1, Dywizjon 303. Historia prawdziwa
+http://patrz.pl/static/uploaded/video/180/1805/180584/6315641844a98ccdd66d71c9e9669362_720.mp4 
+#EXTINF:-1, Pretty Woman
+http://patrz.pl/static/uploaded/video/180/1805/180577/c48168745df2820b4f81149e4565632e_720.mp4 
+#EXTINF:-1, Nigdy w życiu!
+http://patrz.pl/static/uploaded/video/180/1804/180498/5934ad1a32ad20caf0ecf96c6dca20b7_720.mp4 
+#EXTINF:-1, Wciąż cię widzę
+http://patrz.pl/static/uploaded/video/180/1804/180455/9dacc8ca8991cf9b57b177da46ec9a23_720.mp4 
+#EXTINF:-1, Piraci z Karaibów: Zemsta Salazara
+http://patrz.pl/static/uploaded/video/180/1804/180434/719776df8a8beceb16dd51c8ce086b96_720.mp4 
+#EXTINF:-1, Piraci z Karaibów: Na nieznanych wodach
+http://patrz.pl/static/uploaded/video/180/1804/180433/6f35269a7c33567575a658ca9ba370ea_720.mp4 
+#EXTINF:-1, Piraci z Karaibów: Na krańcu świata
+http://patrz.pl/static/uploaded/video/180/1804/180424/a28df7cabaeb486beee3d022ffbfb25e_720.mp4 
+#EXTINF:-1, Piraci z Karaibów: Skrzynia umarlaka
+http://patrz.pl/static/uploaded/video/180/1804/180423/7c5f043f2f93081659356bcedfe6c9be_720.mp4 
+#EXTINF:-1, Piraci z Karaibów: Klątwa Czarnej Perły
+http://patrz.pl/static/uploaded/video/180/1804/180419/cc54447dabd6a9dce0db047cada31e38_720.mp4 
+#EXTINF:-1, Dzień Niepodległości
+http://patrz.pl/static/uploaded/video/180/1804/180412/fb7e35c83886575cf6e5fee98e0134d5_720.mp4 
+#EXTINF:-1, Duelles
+http://patrz.pl/static/uploaded/video/180/1803/180351/13d967b78394b5774ed51844609f27ad_240.mp4 
+#EXTINF:-1, Jumper
+http://patrz.pl/static/uploaded/video/180/1801/180170/4218f520fb4a03ca0bbf4b6790a8b9bb_720.mp4 
+#EXTINF:-1, Zabójcze maszyny
+http://patrz.pl/static/uploaded/video/180/1801/180151/c615966a2d5b7349225acf98bc79b0fb_720.mp4
