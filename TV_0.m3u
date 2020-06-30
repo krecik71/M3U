@@ -1,197 +1,402 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="[PL] 4Fun Gold Hits" tvg-logo="" group-title="Poland",[PL] 4Fun Gold Hits
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8025
-#EXTINF:-1 tvg-id="" tvg-name="[PL] 4Fun.TV" tvg-logo="" group-title="Poland",[PL] 4Fun.TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8026
-#EXTINF:-1 tvg-id="" tvg-name="[PL] AMC" tvg-logo="" group-title="Poland",[PL] AMC
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8027
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Animal Planet HD" tvg-logo="" group-title="Poland",[PL] Animal Planet HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8028
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Antyradio" tvg-logo="" group-title="Poland",[PL] Antyradio
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8029
-#EXTINF:-1 tvg-id="" tvg-name="[PL] AXN SPIN HD" tvg-logo="" group-title="Poland",[PL] AXN SPIN HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8030
-#EXTINF:-1 tvg-id="" tvg-name="[PL] BBC Earth HD" tvg-logo="" group-title="Poland",[PL] BBC Earth HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8031
-#EXTINF:-1 tvg-id="" tvg-name="[PL] BBC FIRST" tvg-logo="" group-title="Poland",[PL] BBC FIRST
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8032
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Boomerang HD" tvg-logo="" group-title="Poland",[PL] Boomerang HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8033
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Cartoon Network HD" tvg-logo="" group-title="Poland",[PL] Cartoon Network HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8034
-#EXTINF:-1 tvg-id="" tvg-name="[PL] CBS Action" tvg-logo="" group-title="Poland",[PL] CBS Action
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8035
-#EXTINF:-1 tvg-id="" tvg-name="[PL] CBS Europa HD" tvg-logo="" group-title="Poland",[PL] CBS Europa HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8036
-#EXTINF:-1 tvg-id="" tvg-name="[PL] CBS Reality HD" tvg-logo="" group-title="Poland",[PL] CBS Reality HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8037
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Chillizet" tvg-logo="" group-title="Poland",[PL] Chillizet
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8038
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Cinemax HD" tvg-logo="" group-title="Poland",[PL] Cinemax HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8039
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Da Vinci" tvg-logo="" group-title="Poland",[PL] Da Vinci
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8040
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Discovery HD" tvg-logo="" group-title="Poland",[PL] Discovery HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8041
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Discovery Historia" tvg-logo="" group-title="Poland",[PL] Discovery Historia
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8042
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Discovery Life HD" tvg-logo="" group-title="Poland",[PL] Discovery Life HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8043
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Discovery Science HD" tvg-logo="" group-title="Poland",[PL] Discovery Science HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8044
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Disney Junior" tvg-logo="" group-title="Poland",[PL] Disney Junior
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8045
-#EXTINF:-1 tvg-id="" tvg-name="[PL] DTX" tvg-logo="" group-title="Poland",[PL] DTX
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8046
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eleven Sports 1 HD" tvg-logo="" group-title="Poland",[PL] Eleven Sports 1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8047
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eleven Sports 2 HD" tvg-logo="" group-title="Poland",[PL] Eleven Sports 2 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8048
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eleven Sports 3 HD" tvg-logo="" group-title="Poland",[PL] Eleven Sports 3 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8049
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Epic Drama HD" tvg-logo="" group-title="Poland",[PL] Epic Drama HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8050
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eska TV" tvg-logo="" group-title="Poland",[PL] Eska TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8051
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eska TV Extra" tvg-logo="" group-title="Poland",[PL] Eska TV Extra
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8052
-#EXTINF:-1 tvg-id="" tvg-name="[PL] EskaROCK TV" tvg-logo="" group-title="Poland",[PL] EskaROCK TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8057
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eurosport 2 HD" tvg-logo="" group-title="Poland",[PL] Eurosport 2 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8053
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Extreme Sports HD" tvg-logo="" group-title="Poland",[PL] Extreme Sports HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8054
-#EXTINF:-1 tvg-id="" tvg-name="[PL] FilmBox Action" tvg-logo="" group-title="Poland",[PL] FilmBox Action
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8055
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Filmbox Arthouse" tvg-logo="" group-title="Poland",[PL] Filmbox Arthouse
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8056
-#EXTINF:-1 tvg-id="" tvg-name="[PL] FilmBox Extra HD" tvg-logo="" group-title="Poland",[PL] FilmBox Extra HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8058
-#EXTINF:-1 tvg-id="" tvg-name="[PL] FilmBox Family" tvg-logo="" group-title="Poland",[PL] FilmBox Family
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8059
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Fokus TV" tvg-logo="" group-title="Poland",[PL] Fokus TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8060
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Food Network HD" tvg-logo="" group-title="Poland",[PL] Food Network HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8061
-#EXTINF:-1 tvg-id="" tvg-name="[PL] FOX" tvg-logo="" group-title="Poland",[PL] FOX
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8066
-#EXTINF:-1 tvg-id="" tvg-name="[PL] HBO HD" tvg-logo="" group-title="Poland",[PL] HBO HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8062
-#EXTINF:-1 tvg-id="" tvg-name="[PL] HBO2 HD" tvg-logo="" group-title="Poland",[PL] HBO2 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8063
-#EXTINF:-1 tvg-id="" tvg-name="[PL] ID HD" tvg-logo="" group-title="Poland",[PL] ID HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8064
-#EXTINF:-1 tvg-id="" tvg-name="[PL] JASNA GORA" tvg-logo="" group-title="Poland",[PL] JASNA GORA
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8065
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Kino Polska Muzyka" tvg-logo="" group-title="Poland",[PL] Kino Polska Muzyka
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8067
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Kino TV HD" tvg-logo="" group-title="Poland",[PL] Kino TV HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8068
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Meloradio" tvg-logo="" group-title="Poland",[PL] Meloradio
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8069
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Metro" tvg-logo="" group-title="Poland",[PL] Metro
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8070
-#EXTINF:-1 tvg-id="" tvg-name="[PL] MUZO.FM" tvg-logo="" group-title="Poland",[PL] MUZO.FM
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8071
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Nat Geo People HD" tvg-logo="" group-title="Poland",[PL] Nat Geo People HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8072
-#EXTINF:-1 tvg-id="" tvg-name="[PL] NATIONAL GEO" tvg-logo="" group-title="Poland",[PL] NATIONAL GEO
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8073
-#EXTINF:-1 tvg-id="" tvg-name="[PL] National Geographic Wild HD" tvg-logo="" group-title="Poland",[PL] National Geographic Wild HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8075
-#EXTINF:-1 tvg-id="" tvg-name="[PL] National Geographic Wild HD" tvg-logo="" group-title="Poland",[PL] National Geographic Wild HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8074
-#EXTINF:-1 tvg-id="" tvg-name="[PL] NC+ PR" tvg-logo="" group-title="Poland",[PL] NC+ PR
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8076
-#EXTINF:-1 tvg-id="" tvg-name="[PL] NC+ RADIO" tvg-logo="" group-title="Poland",[PL] NC+ RADIO
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8077
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Nowa TV" tvg-logo="" group-title="Poland",[PL] Nowa TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8078
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Polo TV" tvg-logo="" group-title="Poland",[PL] Polo TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8079
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Polsat Games" tvg-logo="" group-title="Poland",[PL] Polsat Games
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8081
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Polsat Games" tvg-logo="" group-title="Poland",[PL] Polsat Games
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8080
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Polsat Music HD" tvg-logo="" group-title="Poland",[PL] Polsat Music HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8083
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Polsat Music HD" tvg-logo="" group-title="Poland",[PL] Polsat Music HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8082
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Polsat Sport Fight HD" tvg-logo="" group-title="Poland",[PL] Polsat Sport Fight HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8084
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Polsat Sport News HD" tvg-logo="" group-title="Poland",[PL] Polsat Sport News HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8085
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Polsat Viasat Nature HD" tvg-logo="" group-title="Poland",[PL] Polsat Viasat Nature HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8086
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Radio ZET" tvg-logo="" group-title="Poland",[PL] Radio ZET
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8087
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Red Carpet TV" tvg-logo="" group-title="Poland",[PL] Red Carpet TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8091
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Romance TV" tvg-logo="" group-title="Poland",[PL] Romance TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8088
-#EXTINF:-1 tvg-id="" tvg-name="[PL] STARS.TV" tvg-logo="" group-title="Poland",[PL] STARS.TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8089
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Stopklatka TV" tvg-logo="" group-title="Poland",[PL] Stopklatka TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8090
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TNT HD" tvg-logo="" group-title="Poland",[PL] TNT HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8093
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TNT HD" tvg-logo="" group-title="Poland",[PL] TNT HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8092
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TOK FM" tvg-logo="" group-title="Poland",[PL] TOK FM
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8094
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Travel Channel HD" tvg-logo="" group-title="Poland",[PL] Travel Channel HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8095
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TTV HD" tvg-logo="" group-title="Poland",[PL] TTV HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8096
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TV PULS HD" tvg-logo="" group-title="Poland",[PL] TV PULS HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8099
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TV Republika" tvg-logo="" group-title="Poland",[PL] TV Republika
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8097
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVN 24 HD" tvg-logo="" group-title="Poland",[PL] TVN 24 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8098
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVN 7 HD" tvg-logo="" group-title="Poland",[PL] TVN 7 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8100
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVN 7 HD_" tvg-logo="" group-title="Poland",[PL] TVN 7 HD_
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8101
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVN Fabula" tvg-logo="" group-title="Poland",[PL] TVN Fabula
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8102
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVN HD" tvg-logo="" group-title="Poland",[PL] TVN HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8110
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVN HD_" tvg-logo="" group-title="Poland",[PL] TVN HD_
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8103
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVN Style HD" tvg-logo="" group-title="Poland",[PL] TVN Style HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8104
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVN Turbo HD" tvg-logo="" group-title="Poland",[PL] TVN Turbo HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8105
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP 1 HD" tvg-logo="" group-title="Poland",[PL] TVP 1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8111
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP 1 HD" tvg-logo="" group-title="Poland",[PL] TVP 1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8106
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP 3" tvg-logo="" group-title="Poland",[PL] TVP 3
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8107
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP ABC" tvg-logo="" group-title="Poland",[PL] TVP ABC
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8108
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP HD" tvg-logo="" group-title="Poland",[PL] TVP HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8109
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP Historia" tvg-logo="" group-title="Poland",[PL] TVP Historia
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8113
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP Historia" tvg-logo="" group-title="Poland",[PL] TVP Historia
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8112
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP Kultura" tvg-logo="" group-title="Poland",[PL] TVP Kultura
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8114
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP Rozrywka" tvg-logo="" group-title="Poland",[PL] TVP Rozrywka
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8115
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP SERIALE" tvg-logo="" group-title="Poland",[PL] TVP SERIALE
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8116
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVP Sport HD" tvg-logo="" group-title="Poland",[PL] TVP Sport HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8117
-#EXTINF:-1 tvg-id="" tvg-name="[PL] TVS" tvg-logo="" group-title="Poland",[PL] TVS
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8118
-#EXTINF:-1 tvg-id="" tvg-name="[PL] VOX MUSIC TV" tvg-logo="" group-title="Poland",[PL] VOX MUSIC TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8119
-#EXTINF:-1 tvg-id="" tvg-name="[PL] wPolsce.pl" tvg-logo="" group-title="Poland",[PL] wPolsce.pl
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8120
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Zoom TV" tvg-logo="" group-title="Poland",[PL] Zoom TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/8121
-
+#EXTINF:-1,▬ Poland [PL] ▬
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16520
+#EXTINF:-1,Canal+ Now FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/29051
+#EXTINF:-1,13 Ulica HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15100
+#EXTINF:-1,Adventure HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15205
+#EXTINF:-1,AMC Polska FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15218
+#EXTINF:-1,AXN Black PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11512
+#EXTINF:-1,AXN Polska HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11699
+#EXTINF:-1,AXN Polska PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11511
+#EXTINF:-1,AXN Spin HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11629
+#EXTINF:-1,AXN White PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11513
+#EXTINF:-1,Discovery Turbo Xtra PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11196
+#EXTINF:-1,Ale kino+ FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15219
+#EXTINF:-1,Animal Planet HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/13540
+#EXTINF:-1,BBC Earth HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/13538
+#EXTINF:-1,BBC First FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/13537
+#EXTINF:-1,Boomerang HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11522
+#EXTINF:-1,Canal+ 1 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15204
+#EXTINF:-1,Canal+ Dokument FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15217
+#EXTINF:-1,Canal+ Family FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15216
+#EXTINF:-1,Canal+ Film FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15215
+#EXTINF:-1,Motowizja FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/19153
+#EXTINF:-1,Canal+ Seriale FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15214
+#EXTINF:-1,WP Telewizja PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11517
+#EXTINF:-1,CBS Europa FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15202
+#EXTINF:-1,CBS Reality PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11518
+#EXTINF:-1,Comedy Central Extra Polsat PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11704
+#EXTINF:-1,Canal+ FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/13530
+#EXTINF:-1,Canal+ Sport FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/13535
+#EXTINF:-1,Canal+ Sport 2 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15709
+#EXTINF:-1,Cartoon Network FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15203
+#EXTINF:-1,Cinemax HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15710
+#EXTINF:-1,Cinemax 2 HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15099
+#EXTINF:-1,Crime & Investigation FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/24146
+#EXTINF:-1,Domo+ FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15199
+#EXTINF:-1,Discovery Channel FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15213
+#EXTINF:-1,Discovery Historia PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15098
+#EXTINF:-1,Discovery Life FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11520
+#EXTINF:-1,Discovery Science PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15201
+#EXTINF:-1,Discovery Turbo Xtra FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15212
+#EXTINF:-1,Metro PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11195
+#EXTINF:-1,Disney Channel HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11523
+#EXTINF:-1,Disney Junior PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15200
+#EXTINF:-1,Disney XD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11524
+#EXTINF:-1,Eleven Sports 1 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15198
+#EXTINF:-1,Eleven Sports 2 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15197
+#EXTINF:-1,Eleven Sports 3 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15097
+#EXTINF:-1,Eleven Sports 4 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/19149
+#EXTINF:-1,Epic Drama PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/19081
+#EXTINF:-1,E! FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22302
+#EXTINF:-1,Eurosport 1 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15096
+#EXTINF:-1,Eurosport 2 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15195
+#EXTINF:-1,Extreme Sports FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15194
+#EXTINF:-1,FightBox HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15095
+#EXTINF:-1,Fight Klub FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15193
+#EXTINF:-1,FilmBox Action PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11508
+#EXTINF:-1,FilmBox Family PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11509
+#EXTINF:-1,Kino TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11507
+#EXTINF:-1,FilmBox Premium HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11510
+#EXTINF:-1,Fokus TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/12821
+#EXTINF:-1,FOX Comedy Polska HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11698
+#EXTINF:-1,FOX Comedy Polska PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11634
+#EXTINF:-1,FOX Polska HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11697
+#EXTINF:-1,H2 Polska HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15093
+#EXTINF:-1,HBO FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/13526
+#EXTINF:-1,HBO 2 HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/13527
+#EXTINF:-1,HBO 3 HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15092
+#EXTINF:-1,History HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15091
+#EXTINF:-1,Investigation Discovery FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15211
+#EXTINF:-1,Kino Polska Muzyka PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15090
+#EXTINF:-1,Kino Polska PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11192
+#EXTINF:-1,Kuchnia + FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15210
+#EXTINF:-1,Lifetime HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15089
+#EXTINF:-1,MTV Rocks PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11703
+#EXTINF:-1,MTV Polska FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11702
+#EXTINF:-1,MTV Live HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/20424
+#EXTINF:-1,MiniMini + HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15088
+#EXTINF:-1,NTL PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15190
+#EXTINF:-1,National Geographic FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15087
+#EXTINF:-1,National Geographic Polska PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11515
+#EXTINF:-1,National Geographic People HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15191
+#EXTINF:-1,National Geographic Wild HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15711
+#EXTINF:-1,National Geographic Wild PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11516
+#EXTINF:-1,Nick Jr. PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11706
+#EXTINF:-1,Nickelodeon PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11705
+#EXTINF:-1,Power TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15187
+#EXTINF:-1,HGTV HD  PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11188
+#EXTINF:-1,Planete + Polska HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15208
+#EXTINF:-1,Polo TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/13517
+#EXTINF:-1,Polonia 1 PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11711
+#EXTINF:-1,Polsat 2 HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/12817
+#EXTINF:-1,Polsat 2 PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11185
+#EXTINF:-1,Polsat Café HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11198
+#EXTINF:-1,Polsat Film HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15086
+#EXTINF:-1,Polsat HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11696
+#EXTINF:-1,JimJam Polsat PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11710
+#EXTINF:-1,Polsat News 2 PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11181
+#EXTINF:-1,Polsat News HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15085
+#EXTINF:-1,Polsat Doku HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/20123
+#EXTINF:-1,Polsat Music HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/21527
+#EXTINF:-1,Polsat Play HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11177
+#EXTINF:-1,Polsat Seriale PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11709
+#EXTINF:-1,Polsat Sport Extra HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11201
+#EXTINF:-1,Polsat Sport Fight FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15188
+#EXTINF:-1,Polsat Sport Premium 1 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23369
+#EXTINF:-1,Polsat Sport Premium 2 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23370
+#EXTINF:-1,Polsat Sport Premium 3 PPV FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23420
+#EXTINF:-1,Polsat Sport Premium 4 PPV FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23421
+#EXTINF:-1,Polsat Sport Premium 5 PPV FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23422
+#EXTINF:-1,Polsat Sport Premium 6 PPV FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23423
+#EXTINF:-1,Polsat Sport HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11200
+#EXTINF:-1,Super Polsat HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11199
+#EXTINF:-1,Polsat Viasat History HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15084
+#EXTINF:-1,TV Puls 2 PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15185
+#EXTINF:-1,Romance TV Polska FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15207
+#EXTINF:-1,Scifi Universal FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/20124
+#EXTINF:-1,Stars TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15082
+#EXTINF:-1,Tele 5 PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11630
+#EXTINF:-1,TLC HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15080
+#EXTINF:-1,TLC PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11632
+#EXTINF:-1,TNT FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15184
+#EXTINF:-1,TOTV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15183
+#EXTINF:-1,TTV FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15181
+#EXTINF:-1,TV 4 HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11178
+#EXTINF:-1,TV6 HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/19082
+#EXTINF:-1,TVP Info FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15078
+#EXTINF:-1,TVN 24 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15180
+#EXTINF:-1,TVN 7 HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15179
+#EXTINF:-1,TVN Fabuła FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15178
+#EXTINF:-1,TVN FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15177
+#EXTINF:-1,TVN Style FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15176
+#EXTINF:-1,TVN Turbo FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15175
+#EXTINF:-1,TVN Turbo PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/19085
+#EXTINF:-1,TVN24Bis HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/19152
+#EXTINF:-1,TVN PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/19087
+#EXTINF:-1,TVP 1 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/12810
+#EXTINF:-1,TVP 2 HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/12811
+#EXTINF:-1,TVP 3 Warszawa PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15077
+#EXTINF:-1,TVP ABC PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15076
+#EXTINF:-1,TVP Historia PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15075
+#EXTINF:-1,TVP Info PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15074
+#EXTINF:-1,TVP Seriale PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11514
+#EXTINF:-1,TVP Sport FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/12826
+#EXTINF:-1,TVP Kultura PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/24147
+#EXTINF:-1,TVS PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/12820
+#EXTINF:-1,Da Vinci Learning PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15182
+#EXTINF:-1,VH1 Polska PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11701
+#EXTINF:-1,VOX Music TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15174
+#EXTINF:-1,N Sport + FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15209
+#EXTINF:-1,TéléToon + FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15206
+#EXTINF:-1,4 Fun Dance PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16291
+#EXTINF:-1,4 Fun Gold Hits PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16290
+#EXTINF:-1,4 Fun TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16289
+#EXTINF:-1,FilmBox Arthouse PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16287
+#EXTINF:-1,Stopklatka TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16284
+#EXTINF:-1,TV Republika PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16283
+#EXTINF:-1,TVP Rozrywka PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16282
+#EXTINF:-1,VOD 205 PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16279
+#EXTINF:-1,VOD 206 PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16278
+#EXTINF:-1,VOD 207 PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16277
+#EXTINF:-1,Zoom TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16271
+#EXTINF:-1,Sport Klub Polska HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16835
+#EXTINF:-1,TV Puls HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/16606
+#EXTINF:-1,ATM Rozrywka PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/17040
+#EXTINF:-1,Viasat Explore Polsat FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/18387
+#EXTINF:-1,Travel Channel FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/18389
+#EXTINF:-1,TV 6 HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/18393
+#EXTINF:-1,TVP FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/18392
+#EXTINF:-1,W Polsce PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/19084
+#EXTINF:-1,Viasat Nature Polsat PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/18388
+#EXTINF:-1,NickToons Polska FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22772
+#EXTINF:-1,Comedy Central Polska FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22771
+#EXTINF:-1,Comedy Central Extra Polsat FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22770
+#EXTINF:-1,Paramount Channel Polska FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22769
+#EXTINF:-1,Nowa TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22768
+#EXTINF:-1,Water Planet PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22767
+#EXTINF:-1,TV Okazje PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22766
+#EXTINF:-1,Disco Polo Music PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22765
+#EXTINF:-1,Food Network FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22764
+#EXTINF:-1,Viasat Nature Polsat FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22763
+#EXTINF:-1,Polsat Sport News FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22762
+#EXTINF:-1,Baby TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/22303
+#EXTINF:-1,Eska TV Extra PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11182
+#EXTINF:-1,VOD 208 PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23299
+#EXTINF:-1,BBC Brit Polska FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23317
+#EXTINF:-1,BBC Lifestyle Polska FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23318
+#EXTINF:-1,BBC CBeebies PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/23427
+#EXTINF:-1,Eska TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/11197
+#EXTINF:-1,Polsat Games FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/24376
+#EXTINF:-1,Polsat Rodzina FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/24377
+#EXTINF:-1,Discovery Life PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/27037
+#EXTINF:-1,Discovery Channel PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/27048
+#EXTINF:-1,Investigation Discovery PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/27128
+#EXTINF:-1,FilmBox Extra HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/27555
+#EXTINF:-1,Red Carpet FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/27543
+#EXTINF:-1,Sundance TV FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/20422
+#EXTINF:-1,Golf Channel HD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/27541
+#EXTINF:-1,Nuta TV PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/27540
+#EXTINF:-1,Canal+ Sport 3 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/28019
+#EXTINF:-1,Canal+ Sport 4 FHD PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/28020
+#EXTINF:-1,TVR PL
+http://tv.iptvstack.net:80/2i4Q3QzxuF8i60/fRMoii46/15394
