@@ -1,480 +1,160 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  13th Street FHD" tvg-logo="" group-title="Germany",[DE]  13th Street FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7698
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  13th Street HD" tvg-logo="" group-title="Germany",[DE]  13th Street HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7697
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  3sat" tvg-logo="" group-title="Germany",[DE]  3sat
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7620
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Animal Planet" tvg-logo="" group-title="Germany",[DE]  Animal Planet
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7671
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Arte HD" tvg-logo="" group-title="Germany",[DE]  Arte HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7653
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Auto Motor Sport HD" tvg-logo="" group-title="Germany",[DE]  Auto Motor Sport HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7723
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  AXN" tvg-logo="" group-title="Germany",[DE]  AXN
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7700
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Boomerang" tvg-logo="" group-title="Germany",[DE]  Boomerang
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7678
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  BR HD" tvg-logo="" group-title="Germany",[DE]  BR HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7629
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Cartoon Network" tvg-logo="" group-title="Germany",[DE]  Cartoon Network
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7631
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  CINE 1" tvg-logo="" group-title="Germany",[DE]  CINE 1
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7708
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  CINE 2" tvg-logo="" group-title="Germany",[DE]  CINE 2
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7709
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  CINE 3" tvg-logo="" group-title="Germany",[DE]  CINE 3
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7710
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  CINE 4" tvg-logo="" group-title="Germany",[DE]  CINE 4
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7712
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  CINE 5" tvg-logo="" group-title="Germany",[DE]  CINE 5
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7711
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  CINE BOX" tvg-logo="" group-title="Germany",[DE]  CINE BOX
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7707
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Comedy Central HD" tvg-logo="" group-title="Germany",[DE]  Comedy Central HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7604
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Crime   Investigation HD" tvg-logo="" group-title="Germany",[DE]  Crime   Investigation HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7664
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Das Erste HD" tvg-logo="" group-title="Germany",[DE]  Das Erste HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7588
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  DAZN Bar 1 HD" tvg-logo="" group-title="Germany",[DE]  DAZN Bar 1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7714
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  DAZN Bar 1 HD+" tvg-logo="" group-title="Germany",[DE]  DAZN Bar 1 HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7715
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  DAZN Bar 2 FHD" tvg-logo="" group-title="Germany",[DE]  DAZN Bar 2 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7717
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  DAZN Bar 2 HD" tvg-logo="" group-title="Germany",[DE]  DAZN Bar 2 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7716
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Discovery HD" tvg-logo="" group-title="Germany",[DE]  Discovery HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7670
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Disney Channel HD" tvg-logo="" group-title="Germany",[DE]  Disney Channel HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7632
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Disney Cinemagic HD" tvg-logo="" group-title="Germany",[DE]  Disney Cinemagic HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7679
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Disney Junior HD" tvg-logo="" group-title="Germany",[DE]  Disney Junior HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7680
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  DMAX HD" tvg-logo="" group-title="Germany",[DE]  DMAX HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7656
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  E! HD" tvg-logo="" group-title="Germany",[DE]  E! HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7654
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Eurosport 1 HD+" tvg-logo="" group-title="Germany",[DE]  Eurosport 1 HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7686
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Eurosport 2 HD+" tvg-logo="" group-title="Germany",[DE]  Eurosport 2 HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7685
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Eurosport 2Xtra FHD" tvg-logo="" group-title="Germany",[DE]  Eurosport 2Xtra FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7683
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Eurosport 2Xtra HD" tvg-logo="" group-title="Germany",[DE]  Eurosport 2Xtra HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7684
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  FOX FHD" tvg-logo="" group-title="Germany",[DE]  FOX FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7688
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  FOX HD" tvg-logo="" group-title="Germany",[DE]  FOX HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7687
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Heimatkanal" tvg-logo="" group-title="Germany",[DE]  Heimatkanal
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7706
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  History HD" tvg-logo="" group-title="Germany",[DE]  History HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7668
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  HR HD" tvg-logo="" group-title="Germany",[DE]  HR HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7627
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Junior" tvg-logo="" group-title="Germany",[DE]  Junior
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7674
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Kabel eins Classics" tvg-logo="" group-title="Germany",[DE]  Kabel eins Classics
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7614
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Kabel eins Doku AT" tvg-logo="" group-title="Germany",[DE]  Kabel eins Doku AT
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7663
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Kabel eins HD" tvg-logo="" group-title="Germany",[DE]  Kabel eins HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7598
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Kabel eins HD+" tvg-logo="" group-title="Germany",[DE]  Kabel eins HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7599
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  KiKa HD" tvg-logo="" group-title="Germany",[DE]  KiKa HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7675
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Kinowelt TV" tvg-logo="" group-title="Germany",[DE]  Kinowelt TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7703
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  MDR HD" tvg-logo="" group-title="Germany",[DE]  MDR HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7625
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Motorvision TV" tvg-logo="" group-title="Germany",[DE]  Motorvision TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7722
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  n-tv" tvg-logo="" group-title="Germany",[DE]  n-tv
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7659
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  N24 Doku" tvg-logo="" group-title="Germany",[DE]  N24 Doku
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7665
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Nat Geo HD" tvg-logo="" group-title="Germany",[DE]  Nat Geo HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7673
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Nat Geo Wild HD" tvg-logo="" group-title="Germany",[DE]  Nat Geo Wild HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7672
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  NDR HD" tvg-logo="" group-title="Germany",[DE]  NDR HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7623
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Nickelodeon AT" tvg-logo="" group-title="Germany",[DE]  Nickelodeon AT
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7630
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Nitro FHD" tvg-logo="" group-title="Germany",[DE]  Nitro FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7612
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Nitro HD" tvg-logo="" group-title="Germany",[DE]  Nitro HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7611
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  One" tvg-logo="" group-title="Germany",[DE]  One
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7618
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Phoenix HD" tvg-logo="" group-title="Germany",[DE]  Phoenix HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7661
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Planet HD" tvg-logo="" group-title="Germany",[DE]  Planet HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7669
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  ProSieben Fun HD" tvg-logo="" group-title="Germany",[DE]  ProSieben Fun HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7605
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  ProSieben HD+" tvg-logo="" group-title="Germany",[DE]  ProSieben HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7597
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  ProSieben Maxx FHD" tvg-logo="" group-title="Germany",[DE]  ProSieben Maxx FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7606
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  ProSieben Maxx HD" tvg-logo="" group-title="Germany",[DE]  ProSieben Maxx HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7779
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  RBB HD" tvg-logo="" group-title="Germany",[DE]  RBB HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7626
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Romance TV" tvg-logo="" group-title="Germany",[DE]  Romance TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7705
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  RTL Crime" tvg-logo="" group-title="Germany",[DE]  RTL Crime
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7608
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  RTL HD" tvg-logo="" group-title="Germany",[DE]  RTL HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7592
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  RTL HD+" tvg-logo="" group-title="Germany",[DE]  RTL HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7593
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  RTL Living" tvg-logo="" group-title="Germany",[DE]  RTL Living
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7609
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  RTL Passion" tvg-logo="" group-title="Germany",[DE]  RTL Passion
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7607
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  RTLZWEI HD" tvg-logo="" group-title="Germany",[DE]  RTLZWEI HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7594
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  RTLZWEI HD+" tvg-logo="" group-title="Germany",[DE]  RTLZWEI HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7595
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sat.1 Emotions" tvg-logo="" group-title="Germany",[DE]  Sat.1 Emotions
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7613
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sat.1 Gold HD" tvg-logo="" group-title="Germany",[DE]  Sat.1 Gold HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7615
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sat.1 HD" tvg-logo="" group-title="Germany",[DE]  Sat.1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7590
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sat.1 HD+" tvg-logo="" group-title="Germany",[DE]  Sat.1 HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7591
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Servus TV HD" tvg-logo="" group-title="Germany",[DE]  Servus TV HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7617
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Silverline" tvg-logo="" group-title="Germany",[DE]  Silverline
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7702
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sixx HD" tvg-logo="" group-title="Germany",[DE]  Sixx HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7602
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sixx HD+" tvg-logo="" group-title="Germany",[DE]  Sixx HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7603
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky 1 FHD" tvg-logo="" group-title="Germany",[DE]  Sky 1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7651
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky 1 HD" tvg-logo="" group-title="Germany",[DE]  Sky 1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7652
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Action FHD" tvg-logo="" group-title="Germany",[DE]  Sky Action FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7643
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Action HD" tvg-logo="" group-title="Germany",[DE]  Sky Action HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7644
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Atlantic FHD" tvg-logo="" group-title="Germany",[DE]  Sky Atlantic FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7637
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Atlantic HD" tvg-logo="" group-title="Germany",[DE]  Sky Atlantic HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7638
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 1 FHD" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7745
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 1 HD" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7744
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 2 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 2 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7747
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 2 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 2 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7746
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 3 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 3 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7749
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 3 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 3 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7748
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 4 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 4 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7751
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 4 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 4 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7750
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 5 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 5 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7753
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 5 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 5 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7752
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 6 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 6 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7755
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 6 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 6 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7754
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 7 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 7 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7757
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 7 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 7 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7756
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 8 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 8 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7758
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Bundesliga 9 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Bundesliga 9 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7719
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema   24 FHD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema   24 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7645
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema  1 FHD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema  1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7646
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema  1 HD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema  1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7648
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema  24 HD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema  24 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7647
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema Family FHD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema Family FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7639
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema Family HD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema Family HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7640
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema FHD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7649
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema HD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7650
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema Hits FHD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema Hits FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7641
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Cinema Hits HD" tvg-logo="" group-title="Germany",[DE]  Sky Cinema Hits HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7642
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Comedy" tvg-logo="" group-title="Germany",[DE]  Sky Comedy
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7636
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Emotion" tvg-logo="" group-title="Germany",[DE]  Sky Emotion
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7635
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Krimi HD" tvg-logo="" group-title="Germany",[DE]  Sky Krimi HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7633
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Nostalgie" tvg-logo="" group-title="Germany",[DE]  Sky Nostalgie
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7634
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 1 FHD" tvg-logo="" group-title="Germany",[DE]  Sky Sport 1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7725
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 1 HD" tvg-logo="" group-title="Germany",[DE]  Sky Sport 1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7724
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 1 SD" tvg-logo="" group-title="Germany",[DE]  Sky Sport 1 SD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7772
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 10 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 10 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7743
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 10 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 10 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7742
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  SKY SPORT 10 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  SKY SPORT 10 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7763
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 2 FHD" tvg-logo="" group-title="Germany",[DE]  Sky Sport 2 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7727
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 2 HD" tvg-logo="" group-title="Germany",[DE]  Sky Sport 2 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7726
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 2 SD" tvg-logo="" group-title="Germany",[DE]  Sky Sport 2 SD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7771
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 3 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 3 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7729
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 3 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 3 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7728
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  SKY SPORT 3 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  SKY SPORT 3 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7770
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 4 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 4 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7731
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 4 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 4 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7730
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 4 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 4 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7769
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 5 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 5 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7733
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 5 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 5 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7732
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  SKY SPORT 5 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  SKY SPORT 5 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7768
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 6 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 6 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7735
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 6 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 6 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7734
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 6 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 6 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7767
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 7 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 7 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7737
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 7 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 7 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7736
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  SKY SPORT 7 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  SKY SPORT 7 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7766
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 8 FHD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 8 FHD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7739
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 8 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 8 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7738
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  SKY SPORT 8 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  SKY SPORT 8 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7765
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport 9 HD (ONLY ON MATCHDAY)" tvg-logo="" group-title="Germany",[DE]  Sky Sport 9 HD (ONLY ON MATCHDAY)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7741
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  SKY SPORT 9 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  SKY SPORT 9 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7764
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport Austria 1 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport Austria 1 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7762
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport Austria 2 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport Austria 2 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7761
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport Austria 3 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport Austria 3 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7760
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport Bundesliga 1 SD" tvg-logo="" group-title="Germany",[DE]  Sky Sport Bundesliga 1 SD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7778
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport Bundesliga 2 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport Bundesliga 2 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7777
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport Bundesliga 3 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport Bundesliga 3 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7776
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport Bundesliga 4 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport Bundesliga 4 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7775
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport Bundesliga 5 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport Bundesliga 5 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7774
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport Bundesliga 6 SD (ONLY ON MATCHDAYS)" tvg-logo="" group-title="Germany",[DE]  Sky Sport Bundesliga 6 SD (ONLY ON MATCHDAYS)
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7773
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sky Sport News HD" tvg-logo="" group-title="Germany",[DE]  Sky Sport News HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7713
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sonnenklar TV" tvg-logo="" group-title="Germany",[DE]  Sonnenklar TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7621
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sony Channel" tvg-logo="" group-title="Germany",[DE]  Sony Channel
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7701
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Spiegel TV Geschichte HD" tvg-logo="" group-title="Germany",[DE]  Spiegel TV Geschichte HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7666
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Spiegel TV Wissen" tvg-logo="" group-title="Germany",[DE]  Spiegel TV Wissen
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7667
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sport 1 HD" tvg-logo="" group-title="Germany",[DE]  Sport 1 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7681
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sport 1+" tvg-logo="" group-title="Germany",[DE]  Sport 1+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7721
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Sportdigital Fußball FHD" tvg-logo="" group-title="Germany",[DE]  Sportdigital Fußball FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7682
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Super RTL" tvg-logo="" group-title="Germany",[DE]  Super RTL
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7676
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  SWR HD" tvg-logo="" group-title="Germany",[DE]  SWR HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7622
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  SYFY HD" tvg-logo="" group-title="Germany",[DE]  SYFY HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7699
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Tagesschau 24" tvg-logo="" group-title="Germany",[DE]  Tagesschau 24
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7657
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Tele5 HD" tvg-logo="" group-title="Germany",[DE]  Tele5 HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7616
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  TLC HD" tvg-logo="" group-title="Germany",[DE]  TLC HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7655
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  TNT Comedy FHD" tvg-logo="" group-title="Germany",[DE]  TNT Comedy FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7694
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  TNT Comedy HD" tvg-logo="" group-title="Germany",[DE]  TNT Comedy HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7693
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  TNT Film FHD" tvg-logo="" group-title="Germany",[DE]  TNT Film FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7692
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  TNT Film HD" tvg-logo="" group-title="Germany",[DE]  TNT Film HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7691
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  TNT Serie FHD" tvg-logo="" group-title="Germany",[DE]  TNT Serie FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7690
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  TNT Serie HD" tvg-logo="" group-title="Germany",[DE]  TNT Serie HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7689
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Toggo Plus" tvg-logo="" group-title="Germany",[DE]  Toggo Plus
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7677
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Universal TV FHD" tvg-logo="" group-title="Germany",[DE]  Universal TV FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7696
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Universal TV HD" tvg-logo="" group-title="Germany",[DE]  Universal TV HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7695
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  VOX HD" tvg-logo="" group-title="Germany",[DE]  VOX HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7600
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  VOX HD+" tvg-logo="" group-title="Germany",[DE]  VOX HD+
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7601
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  WDR HD" tvg-logo="" group-title="Germany",[DE]  WDR HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7624
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Welt" tvg-logo="" group-title="Germany",[DE]  Welt
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7658
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Welt der Wunder TV" tvg-logo="" group-title="Germany",[DE]  Welt der Wunder TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7662
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  ZDF HD" tvg-logo="" group-title="Germany",[DE]  ZDF HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7589
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  ZDF Info HD" tvg-logo="" group-title="Germany",[DE]  ZDF Info HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7660
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  ZDF neo HD" tvg-logo="" group-title="Germany",[DE]  ZDF neo HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7619
-#EXTINF:-1 tvg-id="" tvg-name="[DE]  Zee One" tvg-logo="" group-title="Germany",[DE]  Zee One
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/7704
-#EXTINF:-1 tvg-id="" tvg-name="[DE] 13TH STREET FHD" tvg-logo="" group-title="Germany",[DE] 13TH STREET FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4430
-#EXTINF:-1 tvg-id="" tvg-name="[DE] 3 SAT FHD" tvg-logo="" group-title="Germany",[DE] 3 SAT FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4377
-#EXTINF:-1 tvg-id="" tvg-name="[DE] AUTO MOTOR SPORT FHD" tvg-logo="" group-title="Germany",[DE] AUTO MOTOR SPORT FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4379
-#EXTINF:-1 tvg-id="" tvg-name="[DE] AXN FHD" tvg-logo="" group-title="Germany",[DE] AXN FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4431
-#EXTINF:-1 tvg-id="" tvg-name="[DE] BOOMERANG FHD" tvg-logo="" group-title="Germany",[DE] BOOMERANG FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4380
-#EXTINF:-1 tvg-id="" tvg-name="[DE] COMEDY CENTRAL FHD" tvg-logo="" group-title="Germany",[DE] COMEDY CENTRAL FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4382
-#EXTINF:-1 tvg-id="" tvg-name="[DE] DAS ERSTE FHD" tvg-logo="" group-title="Germany",[DE] DAS ERSTE FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4432
-#EXTINF:-1 tvg-id="" tvg-name="[DE] DAZN BAR 1 FHD" tvg-logo="" group-title="Germany",[DE] DAZN BAR 1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4423
-#EXTINF:-1 tvg-id="" tvg-name="[DE] DAZN BAR 2  FHD" tvg-logo="" group-title="Germany",[DE] DAZN BAR 2  FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4424
-#EXTINF:-1 tvg-id="" tvg-name="[DE] DISNEY CHANNEL FHD" tvg-logo="" group-title="Germany",[DE] DISNEY CHANNEL FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4384
-#EXTINF:-1 tvg-id="" tvg-name="[DE] DISNEY CINEMAGIC FHD" tvg-logo="" group-title="Germany",[DE] DISNEY CINEMAGIC FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4385
-#EXTINF:-1 tvg-id="" tvg-name="[DE] DISNEY JUNIOR FHD" tvg-logo="" group-title="Germany",[DE] DISNEY JUNIOR FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4386
-#EXTINF:-1 tvg-id="" tvg-name="[DE] DMAX FHD" tvg-logo="" group-title="Germany",[DE] DMAX FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4433
-#EXTINF:-1 tvg-id="" tvg-name="[DE] E! FHD" tvg-logo="" group-title="Germany",[DE] E! FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4378
-#EXTINF:-1 tvg-id="" tvg-name="[DE] EUROSPORT 1 FHD" tvg-logo="" group-title="Germany",[DE] EUROSPORT 1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4425
-#EXTINF:-1 tvg-id="" tvg-name="[DE] EUROSPORT 2 FHD" tvg-logo="" group-title="Germany",[DE] EUROSPORT 2 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4426
-#EXTINF:-1 tvg-id="" tvg-name="[DE] FC BAYERN TV" tvg-logo="" group-title="Germany",[DE] FC BAYERN TV
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4417
-#EXTINF:-1 tvg-id="" tvg-name="[DE] FOX FHD" tvg-logo="" group-title="Germany",[DE] FOX FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4434
-#EXTINF:-1 tvg-id="" tvg-name="[DE] KABEL 1 DOKU FHD" tvg-logo="" group-title="Germany",[DE] KABEL 1 DOKU FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4387
-#EXTINF:-1 tvg-id="" tvg-name="[DE] KABEL EINS CLASSICS FHD" tvg-logo="" group-title="Germany",[DE] KABEL EINS CLASSICS FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4388
-#EXTINF:-1 tvg-id="" tvg-name="[DE] KIKA FHD" tvg-logo="" group-title="Germany",[DE] KIKA FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4389
-#EXTINF:-1 tvg-id="" tvg-name="[DE] MTV FHD" tvg-logo="" group-title="Germany",[DE] MTV FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4390
-#EXTINF:-1 tvg-id="" tvg-name="[DE] N-TV FHD" tvg-logo="" group-title="Germany",[DE] N-TV FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4391
-#EXTINF:-1 tvg-id="" tvg-name="[DE] PLANET FHD" tvg-logo="" group-title="Germany",[DE] PLANET FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4383
-#EXTINF:-1 tvg-id="" tvg-name="[DE] PRO7 FHD" tvg-logo="" group-title="Germany",[DE] PRO7 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4393
-#EXTINF:-1 tvg-id="" tvg-name="[DE] PRO7 FUN FHD" tvg-logo="" group-title="Germany",[DE] PRO7 FUN FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4392
-#EXTINF:-1 tvg-id="" tvg-name="[DE] PRO7 Maxx FHD" tvg-logo="" group-title="Germany",[DE] PRO7 Maxx FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4394
-#EXTINF:-1 tvg-id="" tvg-name="[DE] RTL 2 FHD" tvg-logo="" group-title="Germany",[DE] RTL 2 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4395
-#EXTINF:-1 tvg-id="" tvg-name="[DE] RTL FHD" tvg-logo="" group-title="Germany",[DE] RTL FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4396
-#EXTINF:-1 tvg-id="" tvg-name="[DE] RTL LIVING FHD" tvg-logo="" group-title="Germany",[DE] RTL LIVING FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4397
-#EXTINF:-1 tvg-id="" tvg-name="[DE] RTL NITRO FHD" tvg-logo="" group-title="Germany",[DE] RTL NITRO FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4398
-#EXTINF:-1 tvg-id="" tvg-name="[DE] RTL plus HD" tvg-logo="" group-title="Germany",[DE] RTL plus HD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4399
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SAT.1 GOLD FHD" tvg-logo="" group-title="Germany",[DE] SAT.1 GOLD FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4400
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SAT1 FHD" tvg-logo="" group-title="Germany",[DE] SAT1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4401
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SIXX FHD" tvg-logo="" group-title="Germany",[DE] SIXX FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4402
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY ACTION FHD" tvg-logo="" group-title="Germany",[DE] SKY ACTION FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4409
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY ATLANTIC 1 FHD" tvg-logo="" group-title="Germany",[DE] SKY ATLANTIC 1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4435
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA  1 FHD" tvg-logo="" group-title="Germany",[DE] SKY CINEMA  1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4410
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA  24 FHD" tvg-logo="" group-title="Germany",[DE] SKY CINEMA  24 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4411
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA FHD" tvg-logo="" group-title="Germany",[DE] SKY CINEMA FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4412
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY CINEMA HITS FHD" tvg-logo="" group-title="Germany",[DE] SKY CINEMA HITS FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4413
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY COMEDY" tvg-logo="" group-title="Germany",[DE] SKY COMEDY
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4414
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY FAMILY FHD" tvg-logo="" group-title="Germany",[DE] SKY FAMILY FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4415
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 1 FHD" tvg-logo="" group-title="Germany",[DE] SKY SPORT 1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4420
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT FHD [APENAS EM JOGOS]" tvg-logo="" group-title="Germany",[DE] SKY SPORT FHD [APENAS EM JOGOS]
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4421
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORTS NEWS FHD" tvg-logo="" group-title="Germany",[DE] SKY SPORTS NEWS FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4422
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SPORT DIGITAL FHD" tvg-logo="" group-title="Germany",[DE] SPORT DIGITAL FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4427
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SPORT1 FHD" tvg-logo="" group-title="Germany",[DE] SPORT1 FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4428
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SUPER RTL FHD" tvg-logo="" group-title="Germany",[DE] SUPER RTL FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4403
-#EXTINF:-1 tvg-id="" tvg-name="[DE] TLC FHD" tvg-logo="" group-title="Germany",[DE] TLC FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4437
-#EXTINF:-1 tvg-id="" tvg-name="[DE] TNT FILM FHD" tvg-logo="" group-title="Germany",[DE] TNT FILM FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4416
-#EXTINF:-1 tvg-id="" tvg-name="[DE] UNIVERSAL CHANNEL FHD" tvg-logo="" group-title="Germany",[DE] UNIVERSAL CHANNEL FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4436
-#EXTINF:-1 tvg-id="" tvg-name="[DE] WELT FHD" tvg-logo="" group-title="Germany",[DE] WELT FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4405
-#EXTINF:-1 tvg-id="" tvg-name="[DE] ZDF Neo FHD" tvg-logo="" group-title="Germany",[DE] ZDF Neo FHD
-http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/4407
+#EXTINF:-1 tvg-id="Eurosport2DE" tvg-name="Eurosport 2 HD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Eurosport 2 HD (DE)
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/559
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD Xtra (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Eurosport 2 HD Xtra (DE)
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/560
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Sport 1 HD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Dazn Sport 1 HD (DE)
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/561
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 FHD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 1 FHD (DE)
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/563
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 FHD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 2 FHD (DE)
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/565
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 3 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/567
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 6 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/569
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 7 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/570
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 8 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/571
+#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 1 HD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 1 HD (DE)
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/572
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 2 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",SKY BUNDESLIGA 2 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/573
+#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 3 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 3 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/575
+#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 4 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 4 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/576
+#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 5 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 5 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/577
+#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 6 HD (DE)( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 6 HD (DE)( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/578
+#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 7 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 7 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/579
+#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 8 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 8 HD (DE) ( During Games only )
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/580
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport News" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",DE: Sky Sport News
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/2800
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="DE: PRO 7 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: PRO 7 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3181
+#EXTINF:-1 tvg-id="ProSieben MAXX HD-DE" tvg-name="DE: PRO 7 MAXX" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: PRO 7 MAXX
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3183
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: VOX HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3185
+#EXTINF:-1 tvg-id="RTLDE" tvg-name="DE: RTL HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3187
+#EXTINF:-1 tvg-id="RTLII" tvg-name="DE: RTL 2" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL 2
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3189
+#EXTINF:-1 tvg-id="RTLPassionDE" tvg-name="DE: RTL PASSION" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL PASSION
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3191
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL CRIME" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL CRIME
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3193
+#EXTINF:-1 tvg-id="Nitro-DE" tvg-name="DE: RTL NITRO" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL NITRO
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3195
+#EXTINF:-1 tvg-id="RTL Living-DE" tvg-name="DE: RTL LIVING HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL LIVING HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3197
+#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: SAT 1" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SAT 1
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3199
+#EXTINF:-1 tvg-id="Sat.1 Gold-DE" tvg-name="DE: SAT 1 GOLD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SAT 1 GOLD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3201
+#EXTINF:-1 tvg-id="DMAX-DE" tvg-name="DE: DMAX" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: DMAX
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3202
+#EXTINF:-1 tvg-id="kabeleins" tvg-name="DE: KABEL 1" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: KABEL 1
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3204
+#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ZDF
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3206
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: DAS ERSTE
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3207
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ANIXE
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3208
+#EXTINF:-1 tvg-id="Comedy Central-DE" tvg-name="Comedy Central (DE)" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",Comedy Central (DE)
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3209
+#EXTINF:-1 tvg-id="N24-DE" tvg-name="DE: N24 HD " tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: N24 HD 
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3210
+#EXTINF:-1 tvg-id="ZDFinfo-DE" tvg-name="DE: ZDF INFO" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ZDF INFO
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3211
+#EXTINF:-1 tvg-id="Spiegel TV Wissen HD-DE" tvg-name="DE: SPIEGEL" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SPIEGEL
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3212
+#EXTINF:-1 tvg-id="NDR Fernsehen-DE" tvg-name="DE: NDR" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: NDR
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3213
+#EXTINF:-1 tvg-id="" tvg-name="DE: N-TV HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: N-TV HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3214
+#EXTINF:-1 tvg-id="sixx-DE" tvg-name="DE: SIXX HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SIXX HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3215
+#EXTINF:-1 tvg-id="" tvg-name="DE: ROMANCE HD*" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ROMANCE HD*
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3217
+#EXTINF:-1 tvg-id="Fox HD-DE" tvg-name="DE: FOX HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: FOX HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3219
+#EXTINF:-1 tvg-id="TNT Film-DE" tvg-name="DE: TNT FILM" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: TNT FILM
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3221
+#EXTINF:-1 tvg-id="TNT Serie-DE" tvg-name="DE: TNT SERIE HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: TNT SERIE HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3223
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT COMEDY HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: TNT COMEDY HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3225
+#EXTINF:-1 tvg-id="Sky 13TH Street-DE" tvg-name="DE: 13TH STREET" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: 13TH STREET
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3227
+#EXTINF:-1 tvg-id="National Geographic-DE" tvg-name="DE: NATIONAL GEO HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: NATIONAL GEO HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3228
+#EXTINF:-1 tvg-id="National Geographic Wildlife-DE" tvg-name="DE: NATIONAL GEO WILD HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: NATIONAL GEO WILD HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3230
+#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY FHD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: HISTORY FHD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3232
+#EXTINF:-1 tvg-id="Discovery Channel-DE" tvg-name="DE: DISCOVERY HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: DISCOVERY HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3234
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIMAL PLANET HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ANIMAL PLANET HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3236
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA 1 HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA 1 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3239
+#EXTINF:-1 tvg-id="Sky Cinema +24-DE" tvg-name="DE: SKY CINEMA 24 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA 24 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3241
+#EXTINF:-1 tvg-id="Sky Action-DE" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA ACTION HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3242
+#EXTINF:-1 tvg-id="Sky Comedy-DE" tvg-name="DE: SKY COMEDY" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY COMEDY
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3244
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY HITS HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY HITS HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3246
+#EXTINF:-1 tvg-id="Sky Atlantic HD-DE" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY ATLANTIC HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3249
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA FAMILY
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3250
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA NOSTALGIE" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA NOSTALGIE
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3251
+#EXTINF:-1 tvg-id="RTL Crime-DE" tvg-name="DE: SKY KRIMI" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY KRIMI
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3252
+#EXTINF:-1 tvg-id="DE-Universal Channel HD" tvg-name="DE: UNIVERSAL HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: UNIVERSAL HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3254
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT HD-DE" tvg-name="DE: E! ENTERTANIMENT" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: E! ENTERTANIMENT
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3256
+#EXTINF:-1 tvg-id="Zee One-DE" tvg-name="DE: ZEE ONE HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ZEE ONE HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3260
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 1 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 1 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3261
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 2 HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 2 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3262
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 3 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 3 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3263
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 4 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 4 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3264
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 5 HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 5 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3265
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 6 HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 6 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3266
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 7 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 7 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3267
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 8 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 8 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3268
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 9 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 9 HD
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3269
+#EXTINF:-1 tvg-id="" tvg-name="KINO WELT" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",KINO WELT
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/3273
+#EXTINF:-1 tvg-id="nickelodeon-DE" tvg-name="NICKELODEON HD DE " tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",NICKELODEON HD DE 
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/10841
+#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR HD DE " tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",NICK JUNIOR HD DE 
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/10842
+#EXTINF:-1 tvg-id="" tvg-name="ORF SPORT PLUS HD " tvg-logo="" group-title="AUSTRIA/SWISS",ORF SPORT PLUS HD 
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/10843
+#EXTINF:-1 tvg-id="Super RTL-DE" tvg-name="DE: SUPER RTL HD " tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SUPER RTL HD 
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/10844
+#EXTINF:-1 tvg-id="" tvg-name="Bayern TV Live" tvg-logo="" group-title="SPORTSKI KANALI",Bayern TV Live
+http://51.91.80.140:7070/alfaplin/B0wihU7srp/15917
