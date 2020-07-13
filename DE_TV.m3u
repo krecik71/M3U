@@ -1,160 +1,162 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Eurosport2DE" tvg-name="Eurosport 2 HD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Eurosport 2 HD (DE)
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/559
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD Xtra (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Eurosport 2 HD Xtra (DE)
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/560
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Sport 1 HD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Dazn Sport 1 HD (DE)
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/561
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 FHD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 1 FHD (DE)
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/563
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 FHD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 2 FHD (DE)
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/565
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 3 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/567
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 6 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/569
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 7 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/570
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky Sport 8 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/571
-#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 1 HD (DE)" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 1 HD (DE)
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/572
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 2 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",SKY BUNDESLIGA 2 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/573
-#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 3 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 3 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/575
-#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 4 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 4 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/576
-#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 5 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 5 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/577
-#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 6 HD (DE)( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 6 HD (DE)( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/578
-#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 7 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 7 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/579
-#EXTINF:-1 tvg-id="" tvg-name="Sky BUNDESLIGA 8 HD (DE) ( During Games only )" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",Sky BUNDESLIGA 8 HD (DE) ( During Games only )
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/580
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport News" tvg-logo="" group-title="SPORT INTERNACIONAL VIP PAKET",DE: Sky Sport News
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/2800
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="DE: PRO 7 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: PRO 7 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3181
-#EXTINF:-1 tvg-id="ProSieben MAXX HD-DE" tvg-name="DE: PRO 7 MAXX" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: PRO 7 MAXX
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3183
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: VOX HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3185
-#EXTINF:-1 tvg-id="RTLDE" tvg-name="DE: RTL HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3187
-#EXTINF:-1 tvg-id="RTLII" tvg-name="DE: RTL 2" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL 2
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3189
-#EXTINF:-1 tvg-id="RTLPassionDE" tvg-name="DE: RTL PASSION" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL PASSION
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3191
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL CRIME" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL CRIME
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3193
-#EXTINF:-1 tvg-id="Nitro-DE" tvg-name="DE: RTL NITRO" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL NITRO
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3195
-#EXTINF:-1 tvg-id="RTL Living-DE" tvg-name="DE: RTL LIVING HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: RTL LIVING HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3197
-#EXTINF:-1 tvg-id="SAT1" tvg-name="DE: SAT 1" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SAT 1
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3199
-#EXTINF:-1 tvg-id="Sat.1 Gold-DE" tvg-name="DE: SAT 1 GOLD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SAT 1 GOLD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3201
-#EXTINF:-1 tvg-id="DMAX-DE" tvg-name="DE: DMAX" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: DMAX
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3202
-#EXTINF:-1 tvg-id="kabeleins" tvg-name="DE: KABEL 1" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: KABEL 1
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3204
-#EXTINF:-1 tvg-id="ZDF" tvg-name="DE: ZDF" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ZDF
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3206
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: DAS ERSTE
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3207
-#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ANIXE
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3208
-#EXTINF:-1 tvg-id="Comedy Central-DE" tvg-name="Comedy Central (DE)" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",Comedy Central (DE)
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3209
-#EXTINF:-1 tvg-id="N24-DE" tvg-name="DE: N24 HD " tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: N24 HD 
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3210
-#EXTINF:-1 tvg-id="ZDFinfo-DE" tvg-name="DE: ZDF INFO" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ZDF INFO
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3211
-#EXTINF:-1 tvg-id="Spiegel TV Wissen HD-DE" tvg-name="DE: SPIEGEL" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SPIEGEL
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3212
-#EXTINF:-1 tvg-id="NDR Fernsehen-DE" tvg-name="DE: NDR" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: NDR
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3213
-#EXTINF:-1 tvg-id="" tvg-name="DE: N-TV HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: N-TV HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3214
-#EXTINF:-1 tvg-id="sixx-DE" tvg-name="DE: SIXX HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SIXX HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3215
-#EXTINF:-1 tvg-id="" tvg-name="DE: ROMANCE HD*" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ROMANCE HD*
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3217
-#EXTINF:-1 tvg-id="Fox HD-DE" tvg-name="DE: FOX HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: FOX HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3219
-#EXTINF:-1 tvg-id="TNT Film-DE" tvg-name="DE: TNT FILM" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: TNT FILM
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3221
-#EXTINF:-1 tvg-id="TNT Serie-DE" tvg-name="DE: TNT SERIE HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: TNT SERIE HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3223
-#EXTINF:-1 tvg-id="" tvg-name="DE: TNT COMEDY HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: TNT COMEDY HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3225
-#EXTINF:-1 tvg-id="Sky 13TH Street-DE" tvg-name="DE: 13TH STREET" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: 13TH STREET
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3227
-#EXTINF:-1 tvg-id="National Geographic-DE" tvg-name="DE: NATIONAL GEO HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: NATIONAL GEO HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3228
-#EXTINF:-1 tvg-id="National Geographic Wildlife-DE" tvg-name="DE: NATIONAL GEO WILD HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: NATIONAL GEO WILD HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3230
-#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY FHD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: HISTORY FHD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3232
-#EXTINF:-1 tvg-id="Discovery Channel-DE" tvg-name="DE: DISCOVERY HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: DISCOVERY HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3234
-#EXTINF:-1 tvg-id="" tvg-name="DE: ANIMAL PLANET HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ANIMAL PLANET HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3236
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA 1 HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA 1 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3239
-#EXTINF:-1 tvg-id="Sky Cinema +24-DE" tvg-name="DE: SKY CINEMA 24 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA 24 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3241
-#EXTINF:-1 tvg-id="Sky Action-DE" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA ACTION HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3242
-#EXTINF:-1 tvg-id="Sky Comedy-DE" tvg-name="DE: SKY COMEDY" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY COMEDY
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3244
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY HITS HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY HITS HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3246
-#EXTINF:-1 tvg-id="Sky Atlantic HD-DE" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY ATLANTIC HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3249
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA FAMILY
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3250
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA NOSTALGIE" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY CINEMA NOSTALGIE
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3251
-#EXTINF:-1 tvg-id="RTL Crime-DE" tvg-name="DE: SKY KRIMI" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY KRIMI
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3252
-#EXTINF:-1 tvg-id="DE-Universal Channel HD" tvg-name="DE: UNIVERSAL HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: UNIVERSAL HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3254
-#EXTINF:-1 tvg-id="E! ENTERTAINMENT HD-DE" tvg-name="DE: E! ENTERTANIMENT" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: E! ENTERTANIMENT
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3256
-#EXTINF:-1 tvg-id="Zee One-DE" tvg-name="DE: ZEE ONE HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: ZEE ONE HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3260
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 1 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 1 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3261
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 2 HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 2 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3262
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 3 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 3 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3263
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 4 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 4 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3264
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 5 HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 5 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3265
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 6 HD" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 6 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3266
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 7 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 7 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3267
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 8 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 8 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3268
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 9 HD" tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SKY SELECT 9 HD
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3269
-#EXTINF:-1 tvg-id="" tvg-name="KINO WELT" tvg-logo="" group-title="SKY DEUTSCHLAND/SKY DE ",KINO WELT
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/3273
-#EXTINF:-1 tvg-id="nickelodeon-DE" tvg-name="NICKELODEON HD DE " tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",NICKELODEON HD DE 
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/10841
-#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR HD DE " tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",NICK JUNIOR HD DE 
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/10842
-#EXTINF:-1 tvg-id="" tvg-name="ORF SPORT PLUS HD " tvg-logo="" group-title="AUSTRIA/SWISS",ORF SPORT PLUS HD 
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/10843
-#EXTINF:-1 tvg-id="Super RTL-DE" tvg-name="DE: SUPER RTL HD " tvg-logo="http://51.75.145.16/channelslog/flagdeut.png" group-title="SKY DEUTSCHLAND/SKY DE ",DE: SUPER RTL HD 
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/10844
-#EXTINF:-1 tvg-id="" tvg-name="Bayern TV Live" tvg-logo="" group-title="SPORTSKI KANALI",Bayern TV Live
-http://51.91.80.140:7070/alfaplin/B0wihU7srp/15917
+#EXTINF:-1,[de] Das Erste HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5240
+#EXTINF:-1,[de] Arte HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5235
+#EXTINF:-1,[de] ZDF HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5239
+#EXTINF:-1,[de] ZDF Info HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5238
+#EXTINF:-1,[de] 3Sat HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5236
+#EXTINF:-1,[de] RTL HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5233
+#EXTINF:-1,[de] RTL 2 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5231
+#EXTINF:-1,[de] RTL NITRO HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5226
+#EXTINF:-1,[de] Super RTL HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5225
+#EXTINF:-1,[de] VOX HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5224
+#EXTINF:-1,[de] Sat 1 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5217
+#EXTINF:-1,[de] Sat 1 Gold
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5216
+#EXTINF:-1,[de] Sixx HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5214
+#EXTINF:-1,[de] Kabel 1 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5220
+#EXTINF:-1,[de] Prosieben HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5242
+#EXTINF:-1,[de] Prosieben Max HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5241
+#EXTINF:-1,[de] Dmax HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5139
+#EXTINF:-1,[de] Tele 5 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5207
+#EXTINF:-1,[de] Zee one HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5156
+#EXTINF:-1,[de] Sky Cinema HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5184
+#EXTINF:-1,[de] Sky Cinema  24 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5182
+#EXTINF:-1,[de] Sky Cinema Action
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5179
+#EXTINF:-1,[de] Sky Cinema Comedy HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5177
+#EXTINF:-1,[de] Sky Cinema Emotion
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5178
+#EXTINF:-1,[de] Sky Cinema Family HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5180
+#EXTINF:-1,[de] Sky Cinema Hits HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5181
+#EXTINF:-1,[de] Sky Cinema Nostalgie HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5176
+#EXTINF:-1,[de] TNT Film HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5203
+#EXTINF:-1,[de] TNT Serie HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5202
+#EXTINF:-1,[de] TNT Comedy HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5201
+#EXTINF:-1,[de] WDR HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5237
+#EXTINF:-1,[de] NDR HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5234
+#EXTINF:-1,[de] N-TV HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5212
+#EXTINF:-1,[de] N24 Doku HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5211
+#EXTINF:-1,[de] 13th Street HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5205
+#EXTINF:-1,[de] Discovery HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5251
+#EXTINF:-1,[de] Spiegel Geschichte HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5153
+#EXTINF:-1,[de] National Geographic HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5151
+#EXTINF:-1,[de] Nat Geo Wild HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5149
+#EXTINF:-1,[de] History HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5248
+#EXTINF:-1,[de] TLC HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5199
+#EXTINF:-1,[de] FOX HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5198
+#EXTINF:-1,[de] SYFY HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5197
+#EXTINF:-1,[de] RTL Crime HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/7822
+#EXTINF:-1,[de] RTL Passion HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/7821
+#EXTINF:-1,[de] COMEDY CENTRAL HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5193
+#EXTINF:-1,[de] Deluxe Music HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5192
+#EXTINF:-1,[de] Kabel Classic HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/7819
+#EXTINF:-1,[de] Universal Channel HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5187
+#EXTINF:-1,[de] Romance TV HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5172
+#EXTINF:-1,[de] Kinowelt TV HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5171
+#EXTINF:-1,[de] Heimat Kanal HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5170
+#EXTINF:-1,[de] KIKA HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5168
+#EXTINF:-1,[de] Disney Channel HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5167
+#EXTINF:-1,[de] Disney Cinemagic HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5166
+#EXTINF:-1,[de] Disney Junior HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5165
+#EXTINF:-1,[de] Disney XD HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5164
+#EXTINF:-1,[de] Junior HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5163
+#EXTINF:-1,[de] Cartoon Network HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5162
+#EXTINF:-1,[de] Boomerang HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5161
+#EXTINF:-1,[de] Nickelodeon HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5159
+#EXTINF:-1,[de] Nick JR HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5157
+#EXTINF:-1,[de] E! HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5155
+#EXTINF:-1,[de] Anixe HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5140
+#EXTINF:-1,[de] Phoenix HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5138
+#EXTINF:-1,[de] Auto Motor Sport HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5137
+#EXTINF:-1,[de] Sky Sport 1 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5129
+#EXTINF:-1,[de] Sky Sport 2 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5128
+#EXTINF:-1,[de] Sky Sport 3 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5127
+#EXTINF:-1,[de] Sky Sport 4 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5126
+#EXTINF:-1,[de] Sky Sport 1 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5252
+#EXTINF:-1,[de] Sky Sport 2 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5244
+#EXTINF:-1,[de] Eurosport 1 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5243
+#EXTINF:-1,[de] Eurosport 2 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5253
+#EXTINF:-1,[de] Sky Sport Bundesliga 1 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/5250
+#EXTINF:-1,[de] Sky Sport Bundesliga 2 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/7818
+#EXTINF:-1,[de] Sky Sport Bundesliga 3 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/7817
+#EXTINF:-1,[de] Sky Sport Bundesliga 4 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/7816
+#EXTINF:-1,[de] Sky Sport Bundesliga 5 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/7815
+#EXTINF:-1,[de] Sky Sport Bundesliga 6 HD
+http://tv.raam.re:2082/unloaded/RHBHZuodEn/7814
