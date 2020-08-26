@@ -1,262 +1,74 @@
-#EXTM3U
+#EXTM3U 
+#EXTINF: -1 tvg-ID="TVP HD PL" tvg-name="TVP HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558715.png" group-title="Polska", TVP HD
+http://188.35.9.8:21121/udp/140g
+#EXTINF: -1 tvg-ID="TVP 2 HD PL" tvg-name="TVP 2 HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558711.png" group-title="Polska", TVP 2 HD
+http://188.35.9.9:21131/udp/135g
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558705.png" group-title="Polska", TVP Historia
+http://188.35.9.10:21111/udp/113k
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558713.png" group-title="Polska", TVP abc
+http://188.35.9.11:21111/udp/115r
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558701.png" group-title="Polska", TVP Info
+http://188.35.9.12:21081/udp/135i
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558703.png" group-title="Polska", HBO HD
+http://188.35.9.13:21151/udp/190z
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558704.png" group-title="Polska", HBO 2 HD
+http://188.35.9.14:21151/udp/157a
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558710.png" group-title="Polska", Canal+ HD
+http://188.35.9.15:21141/udp/141c
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558681.png" group-title="Polska", AXN HD
+http://188.35.9.8:21111/udp/127b
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558688.png" group-title="Polska", Cinemax HD
+http://188.35.9.9:21131/udp/144y
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558712.png" group-title="Polska", Cinemax 2 HD
+http://188.35.9.10:21121/udp/136y
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558694.png" group-title="Polska", Film Box Action
+http://188.35.9.11:21141/udp/146h
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558679.png" group-title="Polska", Fox HD
+http://188.35.9.12:21131/udp/147l
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558714.png" group-title="Polska", Fox Comedy HD
+http://188.35.9.13:21161/udp/173c
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558709.png" group-title="Polska", TNT HD
+http://188.35.9.14:21151/udp/184g
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558687.png" group-title="Polska", TELE 5
+http://188.35.9.15:21131/udp/143t
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558692.png" group-title="Polska", WP
+http://188.35.9.8:21161/udp/225k
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558698.png" group-title="Polska", Eurosport 2 HD Poland
+http://188.35.9.9:21151/udp/192c
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558702.png" group-title="Polska", Polsat Sport HD
+http://188.35.9.10:21161/udp/172r
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558706.png" group-title="Polska", Polsat Sport Extra
+http://188.35.9.111:21161/udp/176z
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558718.png" group-title="Polska", Sport Fight HD
+http://188.35.9.12:21151/udp/193i
+#EXTINF: -1 group-title="Polska", Extreme Sport TV
+http://188.35.9.13:21151/udp/189r
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558682.png" group-title="Polska", MiniMini HD
+http://188.35.9.14:21131/udp/141l
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558707.png" group-title="Polska", Cartoon Network HD
+http://188.35.9.14:21151/udp/185f
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558680.png" group-title="Polska", BBC Ceebeebies
+http://188.35.9.8:21111/udp/163h
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558693.png" group-title="Polska", Disney Junior
+http://188.35.9.9:21151/udp/191a
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558700.png" group-title="Polska", Nat Geo People HD
+http://188.35.9.10:21151/udp/186o
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558695.png" group-title="Polska", Nat Geo Wild
+http://188.35.9.11:21121/udp/126z
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558699.png" group-title="Polska", Discovery Science
+http://188.35.9.12:21151/udp/188k
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558719.png" group-title="Polska", History
+http://188.35.9.13:21121/udp/128c
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558677.png" group-title="Polska", Discovery Life HD
+http://188.35.9.14:21141/udp/142v
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558696.png" group-title="Polska", BBC Brit
+http://188.35.9.13:21111/udp/162g
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558716.png" group-title="Polska", Viasat History HD
+http://188.35.9.8:21121/udp/137s
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558721.png" group-title="Polska", Travel Channel HD
+http://188.35.9.9:21031/udp/038m
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558717.png" group-title="Polska", BBC Lifetsyle
+http://188.35.9.10:21111/udp/164j
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558720.png" group-title="Polska", Music Vox TV
+http://188.35.9.11:21141/udp/154i
 
-#EXTINF:-1 tvg-id="" tvg-name="(Polonia)=====POLISH TV=====" tvg-logo="" group-title="POLACCHI",(Polonia)=====POLISH TV=====
-http://mondial.cybergroup.top:8080/movieland/movieland/53759
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 1 HD" tvg-logo="" group-title="POLACCHI",PL: TVP 1 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91649
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 2 HD" tvg-logo="" group-title="POLACCHI",PL: TVP 2 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91650
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 3 HD" tvg-logo="" group-title="POLACCHI",PL: TVP 3 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91651
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP HD" tvg-logo="" group-title="POLACCHI",PL: TVP HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91652
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Historia" tvg-logo="" group-title="POLACCHI",PL: TVP Historia
-http://mondial.cybergroup.top:8080/movieland/movieland/91653
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Info" tvg-logo="" group-title="POLACCHI",PL: TVP Info
-http://mondial.cybergroup.top:8080/movieland/movieland/91654
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Seriale" tvg-logo="" group-title="POLACCHI",PL: TVP Seriale
-http://mondial.cybergroup.top:8080/movieland/movieland/91655
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV 4 HD" tvg-logo="" group-title="POLACCHI",PL: TV 4 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91656
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV Puls HD" tvg-logo="" group-title="POLACCHI",PL: TV Puls HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91657
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 24" tvg-logo="" group-title="POLACCHI",PL: TVN 24
-http://mondial.cybergroup.top:8080/movieland/movieland/91658
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 7" tvg-logo="" group-title="POLACCHI",PL: TVN 7
-http://mondial.cybergroup.top:8080/movieland/movieland/91659
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN HD" tvg-logo="" group-title="POLACCHI",PL: TVN HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91660
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Style" tvg-logo="" group-title="POLACCHI",PL: TVN Style
-http://mondial.cybergroup.top:8080/movieland/movieland/91661
-#EXTINF:-1 tvg-id="" tvg-name="PL: nSport" tvg-logo="" group-title="POLACCHI",PL: nSport
-http://mondial.cybergroup.top:8080/movieland/movieland/91662
-#EXTINF:-1 tvg-id="" tvg-name="PL: nSport  HD" tvg-logo="" group-title="POLACCHI",PL: nSport  HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91663
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Turbo HD" tvg-logo="" group-title="POLACCHI",PL: TVN Turbo HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91664
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Film HD" tvg-logo="" group-title="POLACCHI",PL: Canal  Film HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91665
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Family HD" tvg-logo="" group-title="POLACCHI",PL: Canal+ Family HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91666
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ HD" tvg-logo="" group-title="POLACCHI",PL: Canal+ HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91667
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Seriale HD" tvg-logo="" group-title="POLACCHI",PL: Canal+ Seriale HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91668
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat" tvg-logo="" group-title="POLACCHI",PL: Polsat
-http://mondial.cybergroup.top:8080/movieland/movieland/91669
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat 2 HD" tvg-logo="" group-title="POLACCHI",PL: Polsat 2 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91670
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Cafe" tvg-logo="" group-title="POLACCHI",PL: Polsat Cafe
-http://mondial.cybergroup.top:8080/movieland/movieland/91671
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Doku" tvg-logo="" group-title="POLACCHI",PL: Polsat Doku
-http://mondial.cybergroup.top:8080/movieland/movieland/91672
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Film HD" tvg-logo="" group-title="POLACCHI",PL: Polsat Film HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91673
-#EXTINF:-1 tvg-id="" tvg-name="PL: SUPER Polsat HD" tvg-logo="" group-title="POLACCHI",PL: SUPER Polsat HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91674
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Music HD" tvg-logo="" group-title="POLACCHI",PL: Polsat Music HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91675
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat News" tvg-logo="" group-title="POLACCHI",PL: Polsat News
-http://mondial.cybergroup.top:8080/movieland/movieland/91676
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Play" tvg-logo="" group-title="POLACCHI",PL: Polsat Play
-http://mondial.cybergroup.top:8080/movieland/movieland/91677
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Play HD" tvg-logo="" group-title="POLACCHI",PL: Polsat Play HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91678
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport" tvg-logo="" group-title="POLACCHI",PL: Polsat Sport
-http://mondial.cybergroup.top:8080/movieland/movieland/91679
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport HD" tvg-logo="" group-title="POLACCHI",PL: Polsat Sport HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91680
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport News" tvg-logo="" group-title="POLACCHI",PL: Polsat Sport News
-http://mondial.cybergroup.top:8080/movieland/movieland/91681
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat Explore HD" tvg-logo="" group-title="POLACCHI",PL: Polsat Viasat Explore HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91682
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat History" tvg-logo="" group-title="POLACCHI",PL: Polsat Viasat History
-http://mondial.cybergroup.top:8080/movieland/movieland/91683
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat Nature" tvg-logo="" group-title="POLACCHI",PL: Polsat Viasat Nature
-http://mondial.cybergroup.top:8080/movieland/movieland/91684
-#EXTINF:-1 tvg-id="" tvg-name="PL: 13 Ulica HD" tvg-logo="" group-title="POLACCHI",PL: 13 Ulica HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91685
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN Dance" tvg-logo="" group-title="POLACCHI",PL: 4FUN Dance
-http://mondial.cybergroup.top:8080/movieland/movieland/91686
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN Gold" tvg-logo="" group-title="POLACCHI",PL: 4FUN Gold
-http://mondial.cybergroup.top:8080/movieland/movieland/91687
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN TV" tvg-logo="" group-title="POLACCHI",PL: 4FUN TV
-http://mondial.cybergroup.top:8080/movieland/movieland/91688
-#EXTINF:-1 tvg-id="" tvg-name="PL: AXN Black" tvg-logo="" group-title="POLACCHI",PL: AXN Black
-http://mondial.cybergroup.top:8080/movieland/movieland/91689
-#EXTINF:-1 tvg-id="" tvg-name="PL: AXN HD" tvg-logo="" group-title="POLACCHI",PL: AXN HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91690
-#EXTINF:-1 tvg-id="" tvg-name="PL: AXN White" tvg-logo="" group-title="POLACCHI",PL: AXN White
-http://mondial.cybergroup.top:8080/movieland/movieland/91691
-#EXTINF:-1 tvg-id="" tvg-name="PL: Ale Kino" tvg-logo="" group-title="POLACCHI",PL: Ale Kino
-http://mondial.cybergroup.top:8080/movieland/movieland/91692
-#EXTINF:-1 tvg-id="" tvg-name="PL: Animal Planet" tvg-logo="" group-title="POLACCHI",PL: Animal Planet
-http://mondial.cybergroup.top:8080/movieland/movieland/91693
-#EXTINF:-1 tvg-id="" tvg-name="PL: Cartoon Network HD" tvg-logo="" group-title="POLACCHI",PL: Cartoon Network HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91694
-#EXTINF:-1 tvg-id="" tvg-name="PL: Disney Channel HD" tvg-logo="" group-title="POLACCHI",PL: Disney Channel HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91695
-#EXTINF:-1 tvg-id="" tvg-name="PL: Disney Junior" tvg-logo="" group-title="POLACCHI",PL: Disney Junior
-http://mondial.cybergroup.top:8080/movieland/movieland/91696
-#EXTINF:-1 tvg-id="" tvg-name="PL: Disney XD" tvg-logo="" group-title="POLACCHI",PL: Disney XD
-http://mondial.cybergroup.top:8080/movieland/movieland/91697
-#EXTINF:-1 tvg-id="" tvg-name="PL: Nickelodeon" tvg-logo="" group-title="POLACCHI",PL: Nickelodeon
-http://mondial.cybergroup.top:8080/movieland/movieland/91698
-#EXTINF:-1 tvg-id="" tvg-name="PL: Nicktoons" tvg-logo="" group-title="POLACCHI",PL: Nicktoons
-http://mondial.cybergroup.top:8080/movieland/movieland/91699
-#EXTINF:-1 tvg-id="" tvg-name="PL: Nick Jr" tvg-logo="" group-title="POLACCHI",PL: Nick Jr
-http://mondial.cybergroup.top:8080/movieland/movieland/91700
-#EXTINF:-1 tvg-id="" tvg-name="PL: Cinemax HD" tvg-logo="" group-title="POLACCHI",PL: Cinemax HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91701
-#EXTINF:-1 tvg-id="" tvg-name="PL: Disco Polo Music" tvg-logo="" group-title="POLACCHI",PL: Disco Polo Music
-http://mondial.cybergroup.top:8080/movieland/movieland/91702
-#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery HD" tvg-logo="" group-title="POLACCHI",PL: Discovery HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91703
-#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Life" tvg-logo="" group-title="POLACCHI",PL: Discovery Life
-http://mondial.cybergroup.top:8080/movieland/movieland/91704
-#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Science" tvg-logo="" group-title="POLACCHI",PL: Discovery Science
-http://mondial.cybergroup.top:8080/movieland/movieland/91705
-#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Turbo Xtra" tvg-logo="" group-title="POLACCHI",PL: Discovery Turbo Xtra
-http://mondial.cybergroup.top:8080/movieland/movieland/91706
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 1 HD" tvg-logo="" group-title="POLACCHI",PL: Eurosport 1 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91707
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 2 HD" tvg-logo="" group-title="POLACCHI",PL: Eurosport 2 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91708
-#EXTINF:-1 tvg-id="" tvg-name="PL: Extreme Sports" tvg-logo="" group-title="POLACCHI",PL: Extreme Sports
-http://mondial.cybergroup.top:8080/movieland/movieland/91709
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX" tvg-logo="" group-title="POLACCHI",PL: FILMBOX
-http://mondial.cybergroup.top:8080/movieland/movieland/91710
-#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Action" tvg-logo="" group-title="POLACCHI",PL: FilmBox Action
-http://mondial.cybergroup.top:8080/movieland/movieland/91711
-#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Premium" tvg-logo="" group-title="POLACCHI",PL: FilmBox Premium
-http://mondial.cybergroup.top:8080/movieland/movieland/91712
-#EXTINF:-1 tvg-id="" tvg-name="PL: Filmbox Family" tvg-logo="" group-title="POLACCHI",PL: Filmbox Family
-http://mondial.cybergroup.top:8080/movieland/movieland/91713
-#EXTINF:-1 tvg-id="" tvg-name="PL: Fokus TV" tvg-logo="" group-title="POLACCHI",PL: Fokus TV
-http://mondial.cybergroup.top:8080/movieland/movieland/91714
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 2 HD" tvg-logo="" group-title="POLACCHI",PL: HBO 2 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91715
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 3 HD" tvg-logo="" group-title="POLACCHI",PL: HBO 3 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91716
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO HD" tvg-logo="" group-title="POLACCHI",PL: HBO HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91717
-#EXTINF:-1 tvg-id="" tvg-name="PL: History" tvg-logo="" group-title="POLACCHI",PL: History
-http://mondial.cybergroup.top:8080/movieland/movieland/91718
-#EXTINF:-1 tvg-id="" tvg-name="PL: Kino Polska" tvg-logo="" group-title="POLACCHI",PL: Kino Polska
-http://mondial.cybergroup.top:8080/movieland/movieland/91719
-#EXTINF:-1 tvg-id="" tvg-name="PL: Lifetime HD" tvg-logo="" group-title="POLACCHI",PL: Lifetime HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91720
-#EXTINF:-1 tvg-id="" tvg-name="PL: MTV Polska" tvg-logo="" group-title="POLACCHI",PL: MTV Polska
-http://mondial.cybergroup.top:8080/movieland/movieland/91721
-#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO WILD HD" tvg-logo="" group-title="POLACCHI",PL: NAT GEO WILD HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91722
-#EXTINF:-1 tvg-id="" tvg-name="PL: Nat Geo HD" tvg-logo="" group-title="POLACCHI",PL: Nat Geo HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91723
-#EXTINF:-1 tvg-id="" tvg-name="PL: Paramount Channel HD" tvg-logo="" group-title="POLACCHI",PL: Paramount Channel HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91724
-#EXTINF:-1 tvg-id="" tvg-name="PL: Planete  HD" tvg-logo="" group-title="POLACCHI",PL: Planete  HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91725
-#EXTINF:-1 tvg-id="" tvg-name="PL: Sundance TV" tvg-logo="" group-title="POLACCHI",PL: Sundance TV
-http://mondial.cybergroup.top:8080/movieland/movieland/91726
-#EXTINF:-1 tvg-id="" tvg-name="PL: TLC HD" tvg-logo="" group-title="POLACCHI",PL: TLC HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91727
-#EXTINF:-1 tvg-id="" tvg-name="PL: TNT HD" tvg-logo="" group-title="POLACCHI",PL: TNT HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91728
-#EXTINF:-1 tvg-id="" tvg-name="PL: Travel Channel HD" tvg-logo="" group-title="POLACCHI",PL: Travel Channel HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91729
-#EXTINF:-1 tvg-id="" tvg-name="PL: Universal HD" tvg-logo="" group-title="POLACCHI",PL: Universal HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91730
-#EXTINF:-1 tvg-id="" tvg-name="PL: WP" tvg-logo="" group-title="POLACCHI",PL: WP
-http://mondial.cybergroup.top:8080/movieland/movieland/91731
-#EXTINF:-1 tvg-id="" tvg-name="PL: Zoom TV" tvg-logo="" group-title="POLACCHI",PL: Zoom TV
-http://mondial.cybergroup.top:8080/movieland/movieland/91732
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVS" tvg-logo="" group-title="POLACCHI",PL: TVS
-http://mondial.cybergroup.top:8080/movieland/movieland/91733
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP ABC" tvg-logo="" group-title="POLACCHI",PL: TVP ABC
-http://mondial.cybergroup.top:8080/movieland/movieland/91734
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV REPUBLIKA" tvg-logo="" group-title="POLACCHI",PL: TV REPUBLIKA
-http://mondial.cybergroup.top:8080/movieland/movieland/91735
-#EXTINF:-1 tvg-id="" tvg-name="PL: SPORTKLUB" tvg-logo="" group-title="POLACCHI",PL: SPORTKLUB
-http://mondial.cybergroup.top:8080/movieland/movieland/91736
-#EXTINF:-1 tvg-id="" tvg-name="PL: SCI FI" tvg-logo="" group-title="POLACCHI",PL: SCI FI
-http://mondial.cybergroup.top:8080/movieland/movieland/91737
-#EXTINF:-1 tvg-id="" tvg-name="PL: ROMANCE TV HD" tvg-logo="" group-title="POLACCHI",PL: ROMANCE TV HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91738
-#EXTINF:-1 tvg-id="" tvg-name="PL: POWER TV" tvg-logo="" group-title="POLACCHI",PL: POWER TV
-http://mondial.cybergroup.top:8080/movieland/movieland/91739
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT NEWS 2" tvg-logo="" group-title="POLACCHI",PL: POLSAT NEWS 2
-http://mondial.cybergroup.top:8080/movieland/movieland/91740
-#EXTINF:-1 tvg-id="" tvg-name="PL: NUTA TV" tvg-logo="" group-title="POLACCHI",PL: NUTA TV
-http://mondial.cybergroup.top:8080/movieland/movieland/91741
-#EXTINF:-1 tvg-id="" tvg-name="PL: NTL" tvg-logo="" group-title="POLACCHI",PL: NTL
-http://mondial.cybergroup.top:8080/movieland/movieland/91742
-#EXTINF:-1 tvg-id="" tvg-name="PL: NOWA TV" tvg-logo="" group-title="POLACCHI",PL: NOWA TV
-http://mondial.cybergroup.top:8080/movieland/movieland/91743
-#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO PEOPLE" tvg-logo="" group-title="POLACCHI",PL: NAT GEO PEOPLE
-http://mondial.cybergroup.top:8080/movieland/movieland/91744
-#EXTINF:-1 tvg-id="" tvg-name="PL: MOTO WIZJA" tvg-logo="" group-title="POLACCHI",PL: MOTO WIZJA
-http://mondial.cybergroup.top:8080/movieland/movieland/91745
-#EXTINF:-1 tvg-id="" tvg-name="PL: MINI MINI" tvg-logo="" group-title="POLACCHI",PL: MINI MINI
-http://mondial.cybergroup.top:8080/movieland/movieland/91746
-#EXTINF:-1 tvg-id="" tvg-name="PL: METRO TV" tvg-logo="" group-title="POLACCHI",PL: METRO TV
-http://mondial.cybergroup.top:8080/movieland/movieland/91747
-#EXTINF:-1 tvg-id="" tvg-name="PL: KUCHNIA +" tvg-logo="" group-title="POLACCHI",PL: KUCHNIA +
-http://mondial.cybergroup.top:8080/movieland/movieland/91748
-#EXTINF:-1 tvg-id="" tvg-name="PL: H2" tvg-logo="" group-title="POLACCHI",PL: H2
-http://mondial.cybergroup.top:8080/movieland/movieland/91749
-#EXTINF:-1 tvg-id="" tvg-name="PL: GOLF HD" tvg-logo="" group-title="POLACCHI",PL: GOLF HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91750
-#EXTINF:-1 tvg-id="" tvg-name="PL: FOX HD" tvg-logo="" group-title="POLACCHI",PL: FOX HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91751
-#EXTINF:-1 tvg-id="" tvg-name="PL: FOX COMEDY" tvg-logo="" group-title="POLACCHI",PL: FOX COMEDY
-http://mondial.cybergroup.top:8080/movieland/movieland/91752
-#EXTINF:-1 tvg-id="" tvg-name="PL: FOOD NETWORK" tvg-logo="" group-title="POLACCHI",PL: FOOD NETWORK
-http://mondial.cybergroup.top:8080/movieland/movieland/91753
-#EXTINF:-1 tvg-id="" tvg-name="PL: ID" tvg-logo="" group-title="POLACCHI",PL: ID
-http://mondial.cybergroup.top:8080/movieland/movieland/91754
-#EXTINF:-1 tvg-id="" tvg-name="PL: HGTV" tvg-logo="" group-title="POLACCHI",PL: HGTV
-http://mondial.cybergroup.top:8080/movieland/movieland/91755
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX EXTRA" tvg-logo="" group-title="POLACCHI",PL: FILMBOX EXTRA
-http://mondial.cybergroup.top:8080/movieland/movieland/91756
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX ARTHOUSE" tvg-logo="" group-title="POLACCHI",PL: FILMBOX ARTHOUSE
-http://mondial.cybergroup.top:8080/movieland/movieland/91757
-#EXTINF:-1 tvg-id="" tvg-name="PL: FIGHTBOX" tvg-logo="" group-title="POLACCHI",PL: FIGHTBOX
-http://mondial.cybergroup.top:8080/movieland/movieland/91758
-#EXTINF:-1 tvg-id="" tvg-name="PL: DOMO +" tvg-logo="" group-title="POLACCHI",PL: DOMO +
-http://mondial.cybergroup.top:8080/movieland/movieland/91759
-#EXTINF:-1 tvg-id="" tvg-name="PL: DA VINCI LEARNING" tvg-logo="" group-title="POLACCHI",PL: DA VINCI LEARNING
-http://mondial.cybergroup.top:8080/movieland/movieland/91760
-#EXTINF:-1 tvg-id="" tvg-name="PL: Comedy Central FAMILY" tvg-logo="" group-title="POLACCHI",PL: Comedy Central FAMILY
-http://mondial.cybergroup.top:8080/movieland/movieland/91761
-#EXTINF:-1 tvg-id="" tvg-name="PL: Comedy Central" tvg-logo="" group-title="POLACCHI",PL: Comedy Central
-http://mondial.cybergroup.top:8080/movieland/movieland/91762
-#EXTINF:-1 tvg-id="" tvg-name="PL: CINEMAX 2 HD" tvg-logo="" group-title="POLACCHI",PL: CINEMAX 2 HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91763
-#EXTINF:-1 tvg-id="" tvg-name="PL: CBS REALITY" tvg-logo="" group-title="POLACCHI",PL: CBS REALITY
-http://mondial.cybergroup.top:8080/movieland/movieland/91764
-#EXTINF:-1 tvg-id="" tvg-name="PL: CBS EUROPA" tvg-logo="" group-title="POLACCHI",PL: CBS EUROPA
-http://mondial.cybergroup.top:8080/movieland/movieland/91765
-#EXTINF:-1 tvg-id="" tvg-name="PL: BBC BRIT" tvg-logo="" group-title="POLACCHI",PL: BBC BRIT
-http://mondial.cybergroup.top:8080/movieland/movieland/91766
-#EXTINF:-1 tvg-id="" tvg-name="PL: BOOMERANG" tvg-logo="" group-title="POLACCHI",PL: BOOMERANG
-http://mondial.cybergroup.top:8080/movieland/movieland/91767
-#EXTINF:-1 tvg-id="" tvg-name="PL: AXN SPIN" tvg-logo="" group-title="POLACCHI",PL: AXN SPIN
-http://mondial.cybergroup.top:8080/movieland/movieland/91768
-#EXTINF:-1 tvg-id="" tvg-name="PL: AMC POLSKA" tvg-logo="" group-title="POLACCHI",PL: AMC POLSKA
-http://mondial.cybergroup.top:8080/movieland/movieland/91769
-#EXTINF:-1 tvg-id="" tvg-name="PL: ADVENTURE HD" tvg-logo="" group-title="POLACCHI",PL: ADVENTURE HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91770
-#EXTINF:-1 tvg-id="" tvg-name="PL: BBC EARTH" tvg-logo="" group-title="POLACCHI",PL: BBC EARTH
-http://mondial.cybergroup.top:8080/movieland/movieland/91771
-#EXTINF:-1 tvg-id="" tvg-name="PL: STOPKLATKA" tvg-logo="" group-title="POLACCHI",PL: STOPKLATKA
-http://mondial.cybergroup.top:8080/movieland/movieland/91772
-#EXTINF:-1 tvg-id="" tvg-name="PL: E! HD" tvg-logo="" group-title="POLACCHI",PL: E! HD
-http://mondial.cybergroup.top:8080/movieland/movieland/91773
-#EXTINF:-1 tvg-id="" tvg-name="PL: JIM JAM" tvg-logo="" group-title="POLACCHI",PL: JIM JAM
-http://mondial.cybergroup.top:8080/movieland/movieland/91774
-#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY HISTORIA" tvg-logo="" group-title="POLACCHI",PL: DISCOVERY HISTORIA
-http://mondial.cybergroup.top:8080/movieland/movieland/91775
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV 6" tvg-logo="" group-title="POLACCHI",PL: TV 6
-http://mondial.cybergroup.top:8080/movieland/movieland/91776
-#EXTINF:-1 tvg-id="" tvg-name="PL: PULS 2" tvg-logo="" group-title="POLACCHI",PL: PULS 2
-http://mondial.cybergroup.top:8080/movieland/movieland/91777
