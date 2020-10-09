@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 , KSW 55
+http://88.156.21.109:8001/1:0:1:3E30:2EE0:13E:820000:0:0:0
+
+
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-1.png" ,TVP 1
 http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=d5b85b249e7762515255f11783fff42aab55cca2aa246c51f0abbe9a94fde2d3f4e49439d3d7fb796059aba256a32b0fcc44213bbd07ee7f3577e7169197661f
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-2.png" ,TVP 2
