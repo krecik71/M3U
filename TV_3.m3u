@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-55.png" ,KSW 55
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=32630d8bd6461c8eaabc079c45d1ac7dd5b7bf85e200b4efed77cbcbb7de4aae071a5ff6445aea241449cc1874827be7aae91e5c0cbbd7a05f244067479e0d5d
+
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-1.png" ,TVP 1
 http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=cc854aa76e85931297e460e1da32eeb51429c7131b30529564f9fc953f0fd6aa1a6af4c0896c1b342a31bc81e1d4dcc3391d8cb8606ad40ce4c3bd3610a05c2f
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-2.png" ,TVP 2
