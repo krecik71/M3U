@@ -3,6 +3,10 @@
 #EXTINF:-1 , KSW 55
 http://88.156.21.109:8001/1:0:1:3E30:2EE0:13E:820000:0:0:0
 
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-55.png" ,KSW 55 
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=9269558dd36908da6ba23b451a56aa98e575ad0f29b59cccb9c07cadc46bd5406ba78bc114d3261e8f8a2cffada6a140edb7aeea1fb566b446310f778b2acb72
+
+
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-1.png" ,TVP 1
 http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=b682ec28dfda320979c4ce8e7d90bfc125f66dc2a1ffac7b9f13a4ad93c6aed0ed1edab5c37a98af1896c04415be5efe271191b4ba956f4ebb1dd2fca4e8d2a1
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-2.png" ,TVP 2
