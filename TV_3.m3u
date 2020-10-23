@@ -1,6 +1,7 @@
 #EXTM3U
 
-17-12-20
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/genesis.png" ,GENESIS
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=5ceacb395d77f70e32557337462415523c39d9a984dee89468b4baebd3b2d2e07d79ca3fb64b439fa78ea82a8bd6f24a7081dc794724eea5db80851f7f20c94c
 
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-1.png" ,TVP 1
 http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=5ceacb395d77f70e32557337462415523c39d9a984dee89468b4baebd3b2d2e07d79ca3fb64b439fa78ea82a8bd6f24a7081dc794724eea5db80851f7f20c94c
