@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 1
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=32630d8bd6461c8eaabc079c45d1ac7dd5b7bf85e200b4efed77cbcbb7de4aae071a5ff6445aea241449cc1874827be7aae91e5c0cbbd7a05f244067479e0d5d
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 2
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=baf85c13c92d01784de8a6f26e84ae5bb857c6fc29823f7b9872ae95ebf42e7fbbb161b5df121c10af8c904e125ff301c14f67c407d7136e89604e547847cedb
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 3
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=5ceacb395d77f70e32557337462415523c39d9a984dee89468b4baebd3b2d2e07d79ca3fb64b439fa78ea82a8bd6f24a7081dc794724eea5db80851f7f20c94c
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 4
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=6ca19517a45c8d668e32f2fc67fa7e489f693305a76491e9874da6a21e519b7b165f12a5ee2274a4cef7e67ddf457ff1605062bc135a7bd424dd297c6e5f1a63
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 5
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=d5b85b249e7762515255f11783fff42aab55cca2aa246c51f0abbe9a94fde2d3f4e49439d3d7fb796059aba256a32b0fcc44213bbd07ee7f3577e7169197661f
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 6
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 7
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=31890c057fc44ba43dd5a35a86617b767c788eac64be4d4d4573c0dc2a911465385abcc237134c11f7cff5159d7428a5b9375946395c18f8e0582a1d0c05826d
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 8
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=f7c6477dc62eb5e3286a27f89e85dd64f14c497fb480ddeba65bd9581736f5453951eb463a12fbc6bb4dfef432edbb76d87dd5bb63bde4ad0328917f3f205ddb
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 9
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=f2795a811ca4c1ca09ef460d5ed2c898a534aa207f27c7881b40817305f021e6d46a5b800942184f6c4d8a7305fb444d16aeda7c6bd60fecd8a3920f3acedb21
+
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-56.png" ,KSW 56 - 10
+http://internetowa.tv/?c=hlsPlay&channel=ppv&token=51808fced35ace174dead0f1fa68dff31057fbb7d102c3be3cff6b6eb30559e2b6d13235ebb6b53b83ba662ec614998793c133cec95c55d228eed03996623455
