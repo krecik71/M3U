@@ -1,12 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1, Odcinek 01
+#EXTINF:-1 tvg-logo="", Odcinek 01
 https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/My0zNjc3NA/master.m3u8
-#EXTINF:-1, Odcinek 02
+#EXTINF:-1 tvg-logo="", Odcinek 02
 https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/MTYtMTk3MzYw/master.m3u8
-#EXTINF:-1, Odcinek 03
+#EXTINF:-1 tvg-logo="", Odcinek 03
 https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/MTQtMTc1MzUw/master.m3u8
-#EXTINF:-1, Odcinek 04
+#EXTINF:-1 tvg-logo="", Odcinek 04
 https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/OC0xMDIzMjg/master.m3u8
-#EXTINF:-1, Odcinek 05
+#EXTINF:-1 tvg-logo="", Odcinek 05
 https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/OC0xMDYxNjg/master.m3u8
+#EXTINF:-1 tvg-logo="", Odcinek 06
+https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/NS02ODUwMA/master.m3u8
+#EXTINF:-1 tvg-logo="", Odcinek 07
+https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/MTEtMTU2Mzk4/master.m3u8
